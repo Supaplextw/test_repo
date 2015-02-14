@@ -1,0 +1,8161 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2015-02-14T15:55:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 332504236,
+  "lat": 25.0410236,
+  "lon": 121.5655147,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "101 Free Shuttle stop"
+  }
+},
+{
+  "type": "node",
+  "id": 471717338,
+  "lat": 25.0399476,
+  "lon": 121.5023014,
+  "tags": {
+    "name": "祖師廟 (貴陽)",
+    "highway": "bus_stop",
+    "route_ref": "513"
+  }
+},
+{
+  "type": "node",
+  "id": 471718544,
+  "lat": 25.0414299,
+  "lon": 121.5083554,
+  "tags": {
+    "name": "捷運西門站",
+    "route_ref": "513",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 471718545,
+  "lat": 25.0422603,
+  "lon": 121.5103692,
+  "tags": {
+    "route_ref": "513",
+    "name": "衡陽路",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 471718546,
+  "lat": 25.0467060,
+  "lon": 121.5132576,
+  "tags": {
+    "highway": "bus_stop",
+    "route_ref": "513"
+  }
+},
+{
+  "type": "node",
+  "id": 471718547,
+  "lat": 25.0429104,
+  "lon": 121.5023529,
+  "tags": {
+    "highway": "bus_stop",
+    "route_ref": "513"
+  }
+},
+{
+  "type": "node",
+  "id": 473315895,
+  "lat": 25.0385723,
+  "lon": 121.5145096,
+  "tags": {
+    "name": "一女中 (貴陽)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 473315899,
+  "lat": 25.0387044,
+  "lon": 121.5144742,
+  "tags": {
+    "name": "一女中 (貴陽)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 473315904,
+  "lat": 25.0367011,
+  "lon": 121.5168110,
+  "tags": {
+    "name": "捷運中正紀念堂站(中山)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 569950164,
+  "lat": 25.0193017,
+  "lon": 121.5707107,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "blue 5"
+  }
+},
+{
+  "type": "node",
+  "id": 569951805,
+  "lat": 25.0213336,
+  "lon": 121.5735646,
+  "tags": {
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 569951806,
+  "lat": 25.0246487,
+  "lon": 121.5696486,
+  "tags": {
+    "name": "松仁路",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 569951808,
+  "lat": 25.0409758,
+  "lon": 121.5674991,
+  "tags": {
+    "name": "捷運市政府站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 663578254,
+  "lat": 25.0267892,
+  "lon": 121.5226910,
+  "tags": {
+    "name": "羅斯福和平路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 663578255,
+  "lat": 25.0244949,
+  "lon": 121.5243218,
+  "tags": {
+    "name": "羅斯福金門街口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 760855299,
+  "lat": 25.0340638,
+  "lon": 121.5573877,
+  "tags": {
+    "name": "三張犁",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 847674792,
+  "lat": 25.0550618,
+  "lon": 121.5945412,
+  "tags": {
+    "name": "南港分局",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 860227978,
+  "lat": 25.0522485,
+  "lon": 121.6065589,
+  "tags": {
+    "name": "捷運南港站",
+    "highway": "bus_stop",
+    "bench": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 870190844,
+  "lat": 25.0410155,
+  "lon": 121.5757694,
+  "tags": {
+    "name": "捷運永春站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 891560859,
+  "lat": 25.0564786,
+  "lon": 121.5989871,
+  "tags": {
+    "name:en": "CTV",
+    "name": "中國電視公司",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 891560861,
+  "lat": 25.0568277,
+  "lon": 121.5994097,
+  "tags": {
+    "name:en": "CTV",
+    "name": "中國電視公司",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 891560862,
+  "lat": 25.0555034,
+  "lon": 121.5962190,
+  "tags": {
+    "name": "南港分局(重陽)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 891560863,
+  "lat": 25.0553673,
+  "lon": 121.5962243,
+  "tags": {
+    "name": "南港分局(重陽)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 913277598,
+  "lat": 25.0544709,
+  "lon": 121.6067878,
+  "tags": {
+    "name": "南港行政中心",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 913277611,
+  "lat": 25.0543567,
+  "lon": 121.6068656,
+  "tags": {
+    "name": "南港行政中心",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 925435445,
+  "lat": 25.0584257,
+  "lon": 121.5610582,
+  "tags": {
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 925435451,
+  "lat": 25.0608054,
+  "lon": 121.5634225,
+  "tags": {
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 995691008,
+  "lat": 25.0286425,
+  "lon": 121.5506261,
+  "tags": {
+    "name": "立人國際中小學",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 1040970466,
+  "lat": 25.0683223,
+  "lon": 121.5960924,
+  "tags": {
+    "name": "國防醫學院",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 1040970471,
+  "lat": 25.0680162,
+  "lon": 121.5961246,
+  "tags": {
+    "name": "國防醫學院",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 1166189365,
+  "lat": 25.0608888,
+  "lon": 121.5441845,
+  "tags": {
+    "name": "捷運中山國中站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 1483501124,
+  "lat": 25.0624149,
+  "lon": 121.5410221,
+  "tags": {
+    "name": "民權龍江路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 1483501761,
+  "lat": 25.0623615,
+  "lon": 121.5373367,
+  "tags": {
+    "name": "民權建國路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 1483501762,
+  "lat": 25.0630889,
+  "lon": 121.5333708,
+  "tags": {
+    "name": "行天宮",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 1505983226,
+  "lat": 25.0878154,
+  "lon": 121.5241133,
+  "tags": {
+    "FIXME": "620 with some alt \"letter\"? Was I proper prefix for 30?",
+    "highway": "bus_stop",
+    "history": "retrieved using undelete JOSM plugin",
+    "name:en": "Ming Chuan Hostel",
+    "route_ref": "111;620;I30"
+  }
+},
+{
+  "type": "node",
+  "id": 1505983228,
+  "lat": 25.0877700,
+  "lon": 121.5241454,
+  "tags": {
+    "highway": "bus_stop",
+    "history": "retrieved using undelete JOSM plugin",
+    "name:en": "Ming Chuan Hostel",
+    "route_ref": "41;68;529"
+  }
+},
+{
+  "type": "node",
+  "id": 1632904208,
+  "lat": 25.0780173,
+  "lon": 121.5353999,
+  "tags": {
+    "history": "retrieved using undelete JOSM plugin",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 1662464666,
+  "lat": 25.0718227,
+  "lon": 121.5923326,
+  "tags": {
+    "name": "三總內湖站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 1705943198,
+  "lat": 25.0743217,
+  "lon": 121.5138689,
+  "tags": {
+    "name": "啟聰學校",
+    "history": "retrieved using undelete JOSM plugin",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 1708079066,
+  "lat": 25.0206971,
+  "lon": 121.5445942,
+  "tags": {
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 1708079101,
+  "lat": 25.0217860,
+  "lon": 121.5345306,
+  "tags": {
+    "name": "台大綜合體育館",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 1828141715,
+  "lat": 25.0446596,
+  "lon": 121.5663635,
+  "tags": {
+    "name": "松山高中",
+    "shelter": "yes",
+    "highway": "bus_stop",
+    "bench": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1837846837,
+  "lat": 25.0824040,
+  "lon": 121.5661416,
+  "tags": {
+    "history": "retrieved using undelete JOSM plugin",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 1837846838,
+  "lat": 25.0821157,
+  "lon": 121.5694603,
+  "tags": {
+    "history": "retrieved using undelete JOSM plugin",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 1838336587,
+  "lat": 25.0819068,
+  "lon": 121.5692296,
+  "tags": {
+    "history": "retrieved using undelete JOSM plugin",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 1992113479,
+  "lat": 25.0690113,
+  "lon": 121.5929403,
+  "tags": {
+    "name": "福華商場",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 1992113484,
+  "lat": 25.0688461,
+  "lon": 121.5928705,
+  "tags": {
+    "name": "福華商場",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 1993433481,
+  "lat": 25.0669269,
+  "lon": 121.5907792,
+  "tags": {
+    "name": "上灣仔",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 1998203551,
+  "lat": 25.0669794,
+  "lon": 121.5904994,
+  "tags": {
+    "name": "上灣仔",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2063258338,
+  "lat": 25.0386480,
+  "lon": 121.5326776,
+  "tags": {
+    "name": "仁愛新生路口",
+    "highway": "bus_stop",
+    "source": "survay"
+  }
+},
+{
+  "type": "node",
+  "id": 2063258342,
+  "lat": 25.0338590,
+  "lon": 121.5325445,
+  "tags": {
+    "name": "信義新生路口",
+    "highway": "bus_stop",
+    "source": "survay"
+  }
+},
+{
+  "type": "node",
+  "id": 2063258347,
+  "lat": 25.0446427,
+  "lon": 121.5328255,
+  "tags": {
+    "name": "光華商場",
+    "highway": "bus_stop",
+    "source": "survay"
+  }
+},
+{
+  "type": "node",
+  "id": 2063258353,
+  "lat": 25.0579563,
+  "lon": 121.5418723,
+  "tags": {
+    "name": "台北大學（台北校區）",
+    "highway": "bus_stop",
+    "source": "survay"
+  }
+},
+{
+  "type": "node",
+  "id": 2063258360,
+  "lat": 25.0217395,
+  "lon": 121.5341092,
+  "tags": {
+    "name": "台大綜合體育館",
+    "highway": "bus_stop",
+    "source": "survay"
+  }
+},
+{
+  "type": "node",
+  "id": 2063258368,
+  "lat": 25.0579866,
+  "lon": 121.5382666,
+  "tags": {
+    "name": "合江街口",
+    "highway": "bus_stop",
+    "source": "survay"
+  }
+},
+{
+  "type": "node",
+  "id": 2063258374,
+  "lat": 25.0263334,
+  "lon": 121.5347866,
+  "tags": {
+    "name": "和平新生路口",
+    "highway": "bus_stop",
+    "source": "survay"
+  }
+},
+{
+  "type": "node",
+  "id": 2063258389,
+  "lat": 25.0404327,
+  "lon": 121.5327131,
+  "tags": {
+    "name": "捷運忠孝新生站",
+    "highway": "bus_stop",
+    "source": "survay"
+  }
+},
+{
+  "type": "node",
+  "id": 2063258394,
+  "lat": 25.0524058,
+  "lon": 121.5329478,
+  "tags": {
+    "name": "捷運松江南京站",
+    "highway": "bus_stop",
+    "source": "survay"
+  }
+},
+{
+  "type": "node",
+  "id": 2063258399,
+  "lat": 25.0580662,
+  "lon": 121.5357986,
+  "tags": {
+    "name": "救國團一",
+    "highway": "bus_stop",
+    "source": "survay"
+  }
+},
+{
+  "type": "node",
+  "id": 2063258416,
+  "lat": 25.0578350,
+  "lon": 121.5473228,
+  "tags": {
+    "name": "海基會",
+    "highway": "bus_stop",
+    "source": "survay"
+  }
+},
+{
+  "type": "node",
+  "id": 2063258453,
+  "lat": 25.0578843,
+  "lon": 121.5451936,
+  "tags": {
+    "name": "西華飯店",
+    "highway": "bus_stop",
+    "source": "survay"
+  }
+},
+{
+  "type": "node",
+  "id": 2063258471,
+  "lat": 25.0307609,
+  "lon": 121.5335798,
+  "tags": {
+    "name": "金華新生路口",
+    "highway": "bus_stop",
+    "source": "survay"
+  }
+},
+{
+  "type": "node",
+  "id": 2063258477,
+  "lat": 25.0487882,
+  "lon": 121.5328906,
+  "tags": {
+    "name": "長安松江路口",
+    "highway": "bus_stop",
+    "source": "survay"
+  }
+},
+{
+  "type": "node",
+  "id": 2063258483,
+  "lat": 25.0552005,
+  "lon": 121.5330012,
+  "tags": {
+    "name": "長春松江路口",
+    "highway": "bus_stop",
+    "source": "survay"
+  }
+},
+{
+  "type": "node",
+  "id": 2063258489,
+  "lat": 25.0244680,
+  "lon": 121.5344937,
+  "tags": {
+    "name": "龍安國小 (公務人力發展中心)",
+    "highway": "bus_stop",
+    "source": "survay"
+  }
+},
+{
+  "type": "node",
+  "id": 2073957640,
+  "lat": 25.0308695,
+  "lon": 121.5007005,
+  "tags": {
+    "name": "萬大路",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2073957641,
+  "lat": 25.0284198,
+  "lon": 121.5006630,
+  "tags": {
+    "name": "西藏路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2079533589,
+  "lat": 25.0230888,
+  "lon": 121.5284523,
+  "tags": {
+    "name": "師大路",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2079533594,
+  "lat": 25.0259008,
+  "lon": 121.5285247,
+  "tags": {
+    "name": "師大",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2079533599,
+  "lat": 25.0263627,
+  "lon": 121.5297615,
+  "tags": {
+    "name": "師大綜合大樓",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2079533602,
+  "lat": 25.0254537,
+  "lon": 121.5381805,
+  "tags": {
+    "old_name": "安東市場",
+    "name": "龍門國中 (和平)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2079533606,
+  "lat": 25.0249725,
+  "lon": 121.5418552,
+  "tags": {
+    "name": "復興南路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2079533609,
+  "lat": 25.0260738,
+  "lon": 121.5436570,
+  "tags": {
+    "name": "捷運科技大樓站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2079533611,
+  "lat": 25.0289026,
+  "lon": 121.5437355,
+  "tags": {
+    "name": "開平餐飲學校",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2079533614,
+  "lat": 25.0428543,
+  "lon": 121.5440118,
+  "tags": {
+    "name": "捷運忠孝復興站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2079533617,
+  "lat": 25.0316270,
+  "lon": 121.5437919,
+  "tags": {
+    "name": "大安高工",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2079533619,
+  "lat": 25.0345144,
+  "lon": 121.5438471,
+  "tags": {
+    "name": "捷運大安站 (復興)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2079533622,
+  "lat": 25.0353548,
+  "lon": 121.5438344,
+  "tags": {
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2079533624,
+  "lat": 25.0384704,
+  "lon": 121.5439153,
+  "tags": {
+    "name": "聯合醫院仁愛院區",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2079533627,
+  "lat": 25.0481635,
+  "lon": 121.5441562,
+  "tags": {
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2079533629,
+  "lat": 25.0261245,
+  "lon": 121.5325885,
+  "tags": {
+    "name": "溫州街口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2079533632,
+  "lat": 25.0526272,
+  "lon": 121.5443118,
+  "tags": {
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2079533635,
+  "lat": 25.0553657,
+  "lon": 121.5443064,
+  "tags": {
+    "name": "興安華城",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2079533638,
+  "lat": 25.0257674,
+  "lon": 121.5358068,
+  "tags": {
+    "name": "大安森林公園",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2079533643,
+  "lat": 25.0207022,
+  "lon": 121.5284445,
+  "tags": {
+    "name": "羅斯福師大路口 (74)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2079533646,
+  "lat": 25.0452504,
+  "lon": 121.5440441,
+  "tags": {
+    "name": "中崙里",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2079600120,
+  "lat": 25.0338347,
+  "lon": 121.6097167,
+  "tags": {
+    "name": "中華科技大學站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2080774917,
+  "lat": 25.0422858,
+  "lon": 121.5435802,
+  "tags": {
+    "name": "捷運忠孝復興站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2080785851,
+  "lat": 25.0460890,
+  "lon": 121.5375964,
+  "tags": {
+    "name": "進安公園",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2080788643,
+  "lat": 25.0472408,
+  "lon": 121.5431057,
+  "tags": {
+    "name": "中崙",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2080967568,
+  "lat": 25.0577959,
+  "lon": 121.5324089,
+  "tags": {
+    "name": "救國團",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2081761205,
+  "lat": 25.0482243,
+  "lon": 121.5538721,
+  "tags": {
+    "name": "美仁里",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2085453852,
+  "lat": 25.0417233,
+  "lon": 121.5160960,
+  "tags": {
+    "name": "捷運台大醫院站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2085453854,
+  "lat": 25.0419967,
+  "lon": 121.5163744,
+  "tags": {
+    "name": "捷運台大醫院站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2085453855,
+  "lat": 25.0444541,
+  "lon": 121.5169006,
+  "tags": {
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2085453856,
+  "lat": 25.0447208,
+  "lon": 121.5171090,
+  "tags": {
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2085453857,
+  "lat": 25.0449136,
+  "lon": 121.5174457,
+  "tags": {
+    "name": "台北車站 (青島)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2087497029,
+  "lat": 25.0335225,
+  "lon": 121.5600888,
+  "tags": {
+    "name": "世貿中心 (基隆路)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2087497030,
+  "lat": 25.0335055,
+  "lon": 121.5596463,
+  "tags": {
+    "name": "世貿中心 (基隆路)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2093610131,
+  "lat": 25.0545546,
+  "lon": 121.5330845,
+  "tags": {
+    "name": "長春松江路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2093610141,
+  "lat": 25.0516897,
+  "lon": 121.5330845,
+  "tags": {
+    "name": "捷運松江南京站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2093610146,
+  "lat": 25.0577103,
+  "lon": 121.5332576,
+  "tags": {
+    "name": "捷運行天宮站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2122387112,
+  "lat": 25.0265090,
+  "lon": 121.5277577,
+  "tags": {
+    "name": "師大",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2124843045,
+  "lat": 25.0586703,
+  "lon": 121.5254424,
+  "tags": {
+    "name": "聚盛里",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2124843046,
+  "lat": 25.0580511,
+  "lon": 121.5247786,
+  "tags": {
+    "name": "華泰飯店",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2124843048,
+  "lat": 25.0579127,
+  "lon": 121.5244557,
+  "tags": {
+    "name": "華泰飯店",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2124843058,
+  "lat": 25.0579029,
+  "lon": 121.5270789,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "聚盛里"
+  }
+},
+{
+  "type": "node",
+  "id": 2128931500,
+  "lat": 25.0417973,
+  "lon": 121.5426237,
+  "tags": {
+    "source": "Bing",
+    "name": "捷運忠孝復興站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2128931502,
+  "lat": 25.0422203,
+  "lon": 121.5339457,
+  "tags": {
+    "name": "臺北科技大學",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2128931503,
+  "lat": 25.0419407,
+  "lon": 121.5341871,
+  "tags": {
+    "name": "臺北科技大學",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2137219940,
+  "lat": 25.0555367,
+  "lon": 121.5254271,
+  "tags": {
+    "name": "中山里",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2137219965,
+  "lat": 25.0533620,
+  "lon": 121.5252854,
+  "tags": {
+    "name": "欣欣大眾公司",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2137220148,
+  "lat": 25.0572206,
+  "lon": 121.5253974,
+  "tags": {
+    "name": "華泰飯店",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2147396422,
+  "lat": 25.0647035,
+  "lon": 121.5305847,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "農安街吉林路口號 (Nongan And Jilin Intersection)"
+  }
+},
+{
+  "type": "node",
+  "id": 2159143915,
+  "lat": 25.0263201,
+  "lon": 121.5380242,
+  "tags": {
+    "name": "龍門國中站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2160836812,
+  "lat": 25.0275615,
+  "lon": 121.5294523,
+  "tags": {
+    "name": "師大專車乘車處",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2170331116,
+  "lat": 25.0772346,
+  "lon": 121.5753648,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "台北花市"
+  }
+},
+{
+  "type": "node",
+  "id": 2170334092,
+  "lat": 25.0787811,
+  "lon": 121.5763961,
+  "tags": {
+    "name": "港墘派出所",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2170341290,
+  "lat": 25.0862373,
+  "lon": 121.5890061,
+  "tags": {
+    "name": "金龍寺二",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2170986908,
+  "lat": 25.0885458,
+  "lon": 121.5864760,
+  "tags": {
+    "name": "金龍寺一",
+    "highway": "bus_stop",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2179826596,
+  "lat": 25.0562696,
+  "lon": 121.5438398,
+  "tags": {
+    "name": "興安華城",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2183268728,
+  "lat": 25.0613550,
+  "lon": 121.5333322,
+  "tags": {
+    "wheelchair": "yes",
+    "highway": "bus_stop",
+    "name": "松江新村(Songjiang New Village)"
+  }
+},
+{
+  "type": "node",
+  "id": 2183271156,
+  "lat": 25.0624632,
+  "lon": 121.5328752,
+  "tags": {
+    "name": "民權松江路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2188228792,
+  "lat": 25.0229707,
+  "lon": 121.5433091,
+  "tags": {
+    "name:en": "Da'an Dist. Health Center",
+    "name": "大安健康服務中心",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2188376122,
+  "lat": 25.0578214,
+  "lon": 121.5350566,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "救國團一 (China Youth Corps 1)"
+  }
+},
+{
+  "type": "node",
+  "id": 2188384024,
+  "lat": 25.0578076,
+  "lon": 121.5346477,
+  "tags": {
+    "name": "救國團 (China Youth Corps)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2188606187,
+  "lat": 25.0577375,
+  "lon": 121.5379500,
+  "tags": {
+    "name": "合江街口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2192068474,
+  "lat": 25.0361399,
+  "lon": 121.5068150,
+  "tags": {
+    "name": "聯合醫院和平院區",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2192068735,
+  "lat": 25.0364194,
+  "lon": 121.5064529,
+  "tags": {
+    "name": "聯合醫院和平院區",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2192159978,
+  "lat": 25.0391363,
+  "lon": 121.5184128,
+  "tags": {
+    "name": "仁愛中山路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2192159979,
+  "lat": 25.0392590,
+  "lon": 121.5184096,
+  "tags": {
+    "name": "仁愛中山路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2194037088,
+  "lat": 25.0515971,
+  "lon": 121.5553017,
+  "tags": {
+    "name": "南京寧安街口 (Nanjing & Ningan Intersection)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2269585375,
+  "lat": 25.0219759,
+  "lon": 121.5022016,
+  "tags": {
+    "name": "青年派出所",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2271726575,
+  "lat": 25.0499877,
+  "lon": 121.5788282,
+  "tags": {
+    "name": "松山車站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2271726576,
+  "lat": 25.0540387,
+  "lon": 121.5919677,
+  "tags": {
+    "name": "玉成國小",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2278523999,
+  "lat": 25.0282242,
+  "lon": 121.5261103,
+  "tags": {
+    "naptan:Bearing": "S",
+    "name": "金山大廈",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2278524000,
+  "lat": 25.0287339,
+  "lon": 121.5264855,
+  "tags": {
+    "naptan:Bearing": "N",
+    "name": "金山大廈",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2283074662,
+  "lat": 25.0259370,
+  "lon": 121.5491714,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "2060 Taoyuan Airport Shuttle Bus - Far Eastern Plaza Hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 2302317265,
+  "lat": 25.0282827,
+  "lon": 121.5565940,
+  "tags": {
+    "name": "三興國小 (臨江街觀光夜市)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2302317274,
+  "lat": 25.0286040,
+  "lon": 121.5571200,
+  "tags": {
+    "name": "三興國小 (臨江街觀光夜市)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2306318135,
+  "lat": 25.0236380,
+  "lon": 121.5520612,
+  "tags": {
+    "name": "捷運六張犁站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2306318179,
+  "lat": 25.0262215,
+  "lon": 121.5548265,
+  "tags": {
+    "name": "喬治商職",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2306318186,
+  "lat": 25.0237036,
+  "lon": 121.5516964,
+  "tags": {
+    "name": "捷運六張犁站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2306318191,
+  "lat": 25.0196082,
+  "lon": 121.5475014,
+  "tags": {
+    "name": "和平高中",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2306318196,
+  "lat": 25.0203009,
+  "lon": 121.5476677,
+  "tags": {
+    "name": "和平高中",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2306318201,
+  "lat": 25.0263479,
+  "lon": 121.5546307,
+  "tags": {
+    "shelter": "yes",
+    "note": "282、292 不停靠",
+    "highway": "bus_stop",
+    "name": "喬治商職"
+  }
+},
+{
+  "type": "node",
+  "id": 2307668500,
+  "lat": 25.0254102,
+  "lon": 121.5406537,
+  "tags": {
+    "source": "Bing",
+    "name": "國北教大實小",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2307668505,
+  "lat": 25.0251865,
+  "lon": 121.5422447,
+  "tags": {
+    "name": "復興南路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2307668510,
+  "lat": 25.0249532,
+  "lon": 121.5448143,
+  "tags": {
+    "name": "國立臺北教育大學",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2307668538,
+  "lat": 25.0246995,
+  "lon": 121.5475584,
+  "tags": {
+    "name": "臥龍街",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2307668542,
+  "lat": 25.0256021,
+  "lon": 121.5392806,
+  "tags": {
+    "note": "3/211 以外路線停靠",
+    "name": "龍門國中 (和平)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2307668545,
+  "lat": 25.0245911,
+  "lon": 121.5511518,
+  "tags": {
+    "name": "和平安和路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2308210155,
+  "lat": 25.0417123,
+  "lon": 121.5466336,
+  "tags": {
+    "source": "Bing",
+    "name": "頂好市場",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2308210156,
+  "lat": 25.0439017,
+  "lon": 121.5275860,
+  "tags": {
+    "name": "審計部",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2308210157,
+  "lat": 25.0450547,
+  "lon": 121.5228464,
+  "tags": {
+    "name": "捷運善導寺站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2308210158,
+  "lat": 25.0465227,
+  "lon": 121.5166752,
+  "tags": {
+    "name": "臺北車站 (忠孝)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2308210160,
+  "lat": 25.0414841,
+  "lon": 121.5589843,
+  "tags": {
+    "source": "Bing",
+    "name": "捷運國父紀念館站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2308210161,
+  "lat": 25.0429105,
+  "lon": 121.5310464,
+  "tags": {
+    "source": "Bing",
+    "name": "忠孝國小",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2308210162,
+  "lat": 25.0414988,
+  "lon": 121.5563194,
+  "tags": {
+    "name": "觀光局",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2308210163,
+  "lat": 25.0415640,
+  "lon": 121.5536033,
+  "tags": {
+    "source": "Bing",
+    "name": "阿波羅大廈",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2308210164,
+  "lat": 25.0416250,
+  "lon": 121.5501706,
+  "tags": {
+    "name": "捷運忠孝敦化站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2308210167,
+  "lat": 25.0413699,
+  "lon": 121.5476118,
+  "tags": {
+    "name": "頂好市場",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2308210173,
+  "lat": 25.0418036,
+  "lon": 121.5392098,
+  "tags": {
+    "source": "Bing",
+    "name": "正義郵局",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2309011871,
+  "lat": 25.0330245,
+  "lon": 121.5669796,
+  "tags": {
+    "name": "信義行政中心 (信義)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2309011891,
+  "lat": 25.0341934,
+  "lon": 121.5636644,
+  "tags": {
+    "name": "捷運台北101/世貿站 (市府)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2309011892,
+  "lat": 25.0380793,
+  "lon": 121.5637046,
+  "tags": {
+    "name": "市政府 (市府)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2309011893,
+  "lat": 25.0410270,
+  "lon": 121.5650779,
+  "tags": {
+    "source": "Bing",
+    "name": "捷運市政府站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2309134841,
+  "lat": 25.0523905,
+  "lon": 121.6103123,
+  "tags": {
+    "name": "工程營產中心",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2309134842,
+  "lat": 25.0445285,
+  "lon": 121.5823771,
+  "tags": {
+    "name": "捷運後山埤站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2309134843,
+  "lat": 25.0514708,
+  "lon": 121.6026358,
+  "tags": {
+    "name": "南港機廠",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2309134846,
+  "lat": 25.0426719,
+  "lon": 121.5808804,
+  "tags": {
+    "name": "協和工商",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2309134847,
+  "lat": 25.0495366,
+  "lon": 121.5909253,
+  "tags": {
+    "old_name": "聯勤總部",
+    "name": "陸軍後勤指揮部",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2309134848,
+  "lat": 25.0411847,
+  "lon": 121.5788527,
+  "tags": {
+    "name": "永春里",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2309134849,
+  "lat": 25.0407290,
+  "lon": 121.5756260,
+  "tags": {
+    "name": "捷運永春站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2309134850,
+  "lat": 25.0465660,
+  "lon": 121.5838456,
+  "tags": {
+    "name": "聯合醫院忠孝院區",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2309134853,
+  "lat": 25.0488307,
+  "lon": 121.5877992,
+  "tags": {
+    "name": "國華新村",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2309134854,
+  "lat": 25.0408287,
+  "lon": 121.5724623,
+  "tags": {
+    "name": "市立工農",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2309134855,
+  "lat": 25.0481807,
+  "lon": 121.5857325,
+  "tags": {
+    "name": "聯合醫院忠孝院區",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2309134856,
+  "lat": 25.0503300,
+  "lon": 121.5942821,
+  "tags": {
+    "name": "捷運昆陽站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2309134858,
+  "lat": 25.0501614,
+  "lon": 121.5936059,
+  "tags": {
+    "name": "捷運昆陽站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2309134859,
+  "lat": 25.0500250,
+  "lon": 121.5930469,
+  "tags": {
+    "name": "捷運昆陽站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2309134860,
+  "lat": 25.0521184,
+  "lon": 121.6082443,
+  "tags": {
+    "name": "捷運南港站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2310552098,
+  "lat": 25.0427218,
+  "lon": 121.5064665,
+  "tags": {
+    "name": "西門市場",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2310552099,
+  "lat": 25.0445844,
+  "lon": 121.5086914,
+  "tags": {
+    "source": "Bing",
+    "name": "中華路北站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2310552102,
+  "lat": 25.0416246,
+  "lon": 121.5078411,
+  "tags": {
+    "source": "Bing",
+    "name": "捷運西門站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2310552627,
+  "lat": 25.0458629,
+  "lon": 121.5058953,
+  "tags": {
+    "name": "漢口昆明街口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2310552629,
+  "lat": 25.0447558,
+  "lon": 121.5053507,
+  "tags": {
+    "name": "市立中醫醫院",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2310553254,
+  "lat": 25.0414114,
+  "lon": 121.5098618,
+  "tags": {
+    "name": "寶慶路",
+    "source": "Bing",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2310591195,
+  "lat": 25.0465067,
+  "lon": 121.5155912,
+  "tags": {
+    "name": "臺北車站 (忠孝)",
+    "wheelchair": "no",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2310591198,
+  "lat": 25.0395517,
+  "lon": 121.5218903,
+  "tags": {
+    "name": "仁愛林森路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2310591202,
+  "lat": 25.0332625,
+  "lon": 121.5269877,
+  "tags": {
+    "name": "捷運東門站 (金山)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2310591205,
+  "lat": 25.0449219,
+  "lon": 121.5225254,
+  "tags": {
+    "name": "捷運善導寺站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2310591209,
+  "lat": 25.0430429,
+  "lon": 121.5227286,
+  "tags": {
+    "wheelchair": "yes",
+    "name": "成功中學 (林森)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2310591212,
+  "lat": 25.0418096,
+  "lon": 121.5223477,
+  "tags": {
+    "name": "開南商工",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2310591215,
+  "lat": 25.0303561,
+  "lon": 121.5328901,
+  "tags": {
+    "name": "金華國中",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2310591218,
+  "lat": 25.0392630,
+  "lon": 121.5216110,
+  "tags": {
+    "name": "仁愛林森路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2310591231,
+  "lat": 25.0297595,
+  "lon": 121.5289647,
+  "tags": {
+    "name": "金華大廈",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2310591236,
+  "lat": 25.0300706,
+  "lon": 121.5268659,
+  "tags": {
+    "name": "公企中心",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2310685013,
+  "lat": 25.0441046,
+  "lon": 121.5151390,
+  "tags": {
+    "name": "博物館 (館前)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2310685014,
+  "lat": 25.0460231,
+  "lon": 121.5137214,
+  "tags": {
+    "wheelchair": "no",
+    "source": "Bing",
+    "highway": "bus_stop",
+    "name": "臺北車站 (開封)"
+  }
+},
+{
+  "type": "node",
+  "id": 2310689459,
+  "lat": 25.0415555,
+  "lon": 121.5788964,
+  "tags": {
+    "name": "永春里",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2310689460,
+  "lat": 25.0498005,
+  "lon": 121.5907250,
+  "tags": {
+    "old_name": "聯勤總部",
+    "name": "陸軍後勤指揮部",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2310689461,
+  "lat": 25.0503156,
+  "lon": 121.5929901,
+  "tags": {
+    "name": "捷運昆陽站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2310689462,
+  "lat": 25.0523835,
+  "lon": 121.6082854,
+  "tags": {
+    "name": "捷運南港站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2310689463,
+  "lat": 25.0525864,
+  "lon": 121.6102997,
+  "tags": {
+    "name": "工程營產中心",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2310689464,
+  "lat": 25.0517238,
+  "lon": 121.6027909,
+  "tags": {
+    "name": "南港機廠",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2310689470,
+  "lat": 25.0449709,
+  "lon": 121.5823699,
+  "tags": {
+    "name": "捷運後山埤站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2310689471,
+  "lat": 25.0410598,
+  "lon": 121.5721775,
+  "tags": {
+    "name": "市立工農",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2310689472,
+  "lat": 25.0426806,
+  "lon": 121.5805768,
+  "tags": {
+    "name": "協和工商",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2310689473,
+  "lat": 25.0490934,
+  "lon": 121.5877987,
+  "tags": {
+    "name": "國華新村",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2310689475,
+  "lat": 25.0474155,
+  "lon": 121.5841965,
+  "tags": {
+    "name": "聯合醫院忠孝院區",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2312619106,
+  "lat": 25.0315873,
+  "lon": 121.5588520,
+  "tags": {
+    "source": "Bing",
+    "name": "吳興街口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2312619107,
+  "lat": 25.0316910,
+  "lon": 121.5585625,
+  "tags": {
+    "source": "Bing",
+    "name": "吳興街口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2312678115,
+  "lat": 25.0200135,
+  "lon": 121.5288691,
+  "tags": {
+    "source": "Bing",
+    "name": "羅斯福辛亥路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2312678118,
+  "lat": 25.0382482,
+  "lon": 121.5151067,
+  "tags": {
+    "name": "一女中 (公園)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2312678126,
+  "lat": 25.0368582,
+  "lon": 121.5151375,
+  "tags": {
+    "source": "Bing",
+    "name": "一女中 (公園)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2312678130,
+  "lat": 25.0364483,
+  "lon": 121.5149274,
+  "tags": {
+    "source": "Bing",
+    "name": "市立大學附小",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2312678136,
+  "lat": 25.0221827,
+  "lon": 121.5264296,
+  "tags": {
+    "source": "Bing",
+    "name": "羅斯福浦城街口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2312678141,
+  "lat": 25.0239533,
+  "lon": 121.5247948,
+  "tags": {
+    "source": "Bing",
+    "name": "羅斯福金門街口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2312678144,
+  "lat": 25.0224087,
+  "lon": 121.5261507,
+  "tags": {
+    "source": "Bing",
+    "name": "羅斯福浦城街口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2312678151,
+  "lat": 25.0272938,
+  "lon": 121.5202927,
+  "tags": {
+    "source": "Bing",
+    "name": "南昌公園",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2312678154,
+  "lat": 25.0270897,
+  "lon": 121.5208962,
+  "tags": {
+    "source": "Bing",
+    "name": "南昌公園",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2312678156,
+  "lat": 25.0268224,
+  "lon": 121.5203893,
+  "tags": {
+    "source": "Bing",
+    "name": "古亭市場",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2312678158,
+  "lat": 25.0208714,
+  "lon": 121.5279786,
+  "tags": {
+    "source": "Bing",
+    "name": "羅斯福師大路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2315944925,
+  "lat": 25.0256302,
+  "lon": 121.5349969,
+  "tags": {
+    "name": "龍安國小 (公務人力發展中心)",
+    "source": "Bing",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2315948157,
+  "lat": 25.0246403,
+  "lon": 121.5451952,
+  "tags": {
+    "name": "國立臺北教育大學",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2315948158,
+  "lat": 25.0245163,
+  "lon": 121.5474480,
+  "tags": {
+    "name": "臥龍街",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2315948159,
+  "lat": 25.0243492,
+  "lon": 121.5506525,
+  "tags": {
+    "name": "和平安和路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2318386198,
+  "lat": 25.0271965,
+  "lon": 121.5232301,
+  "tags": {
+    "note": "停靠直行和平西路或右轉羅斯福路路線",
+    "name": "捷運古亭站 (和平)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2323939466,
+  "lat": 25.0193681,
+  "lon": 121.5576883,
+  "tags": {
+    "name": "黎忠市場",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2323939469,
+  "lat": 25.0229264,
+  "lon": 121.5542497,
+  "tags": {
+    "name": "捷運六張犁站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2323939471,
+  "lat": 25.0195468,
+  "lon": 121.5578962,
+  "tags": {
+    "name": "黎忠市場",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2323939472,
+  "lat": 25.0232715,
+  "lon": 121.5534706,
+  "tags": {
+    "name": "捷運六張犁站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2323939473,
+  "lat": 25.0208945,
+  "lon": 121.5560268,
+  "tags": {
+    "name": "富陽街口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2323939474,
+  "lat": 25.0211326,
+  "lon": 121.5561851,
+  "tags": {
+    "name": "富陽街口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2323956867,
+  "lat": 25.0343880,
+  "lon": 121.5681732,
+  "tags": {
+    "name": "信義行政中心 (松仁)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2323956868,
+  "lat": 25.0337415,
+  "lon": 121.5684441,
+  "tags": {
+    "name": "信義行政中心 (松仁)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2323956869,
+  "lat": 25.0372702,
+  "lon": 121.5682403,
+  "tags": {
+    "source": "Bing",
+    "name": "興雅國中",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2323956870,
+  "lat": 25.0397222,
+  "lon": 121.5683020,
+  "tags": {
+    "name": "消防局 (松仁)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2323956871,
+  "lat": 25.0371717,
+  "lon": 121.5685393,
+  "tags": {
+    "source": "Bing",
+    "name": "興雅國中",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2323973404,
+  "lat": 25.0292186,
+  "lon": 121.5205156,
+  "tags": {
+    "name": "福州街口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2323973405,
+  "lat": 25.0340040,
+  "lon": 121.5175438,
+  "tags": {
+    "note": "直行中山南路路線停靠",
+    "name": "捷運中正紀念堂站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2323973406,
+  "lat": 25.0308395,
+  "lon": 121.5199148,
+  "tags": {
+    "source": "Bing",
+    "name": "捷運中正紀念堂站 (羅斯)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2323973407,
+  "lat": 25.0368655,
+  "lon": 121.5087153,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "捷運小南門站"
+  }
+},
+{
+  "type": "node",
+  "id": 2323973408,
+  "lat": 25.0341607,
+  "lon": 121.5169698,
+  "tags": {
+    "name": "捷運中正紀念堂站 (勞保局)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2323973409,
+  "lat": 25.0354316,
+  "lon": 121.5137390,
+  "tags": {
+    "name": "臺北市立大學",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2323973410,
+  "lat": 25.0376153,
+  "lon": 121.5069384,
+  "tags": {
+    "name": "小南門",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2323973411,
+  "lat": 25.0447731,
+  "lon": 121.5093631,
+  "tags": {
+    "name": "中華路北站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2323973412,
+  "lat": 25.0358559,
+  "lon": 121.5113864,
+  "tags": {
+    "source": "Bing",
+    "name": "臺北法院",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2323973413,
+  "lat": 25.0292258,
+  "lon": 121.5211043,
+  "tags": {
+    "source": "Bing",
+    "name": "潮州街口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2323973414,
+  "lat": 25.0310495,
+  "lon": 121.5193109,
+  "tags": {
+    "source": "Bing",
+    "name": "捷運中正紀念堂站 (羅斯)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2323973415,
+  "lat": 25.0452810,
+  "lon": 121.5090882,
+  "tags": {
+    "name": "中華路北站",
+    "source": "Bing",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2323973416,
+  "lat": 25.0455276,
+  "lon": 121.5094107,
+  "tags": {
+    "source": "Bing",
+    "name": "中華路北站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2323973417,
+  "lat": 25.0488846,
+  "lon": 121.5103508,
+  "tags": {
+    "name": "北門 (臺北地下街)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2323973418,
+  "lat": 25.0500656,
+  "lon": 121.5169859,
+  "tags": {
+    "source": "Bing",
+    "name": "臺北車站 (承德)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2323973421,
+  "lat": 25.0418862,
+  "lon": 121.5083532,
+  "tags": {
+    "name": "捷運西門站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2323973422,
+  "lat": 25.0423856,
+  "lon": 121.5082607,
+  "tags": {
+    "name": "捷運西門站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2325438254,
+  "lat": 25.0594515,
+  "lon": 121.4906361,
+  "tags": {
+    "name": "捷運菜寮站",
+    "source": "Bing",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2325438261,
+  "lat": 25.0605418,
+  "lon": 121.4922962,
+  "tags": {
+    "source": "Bing",
+    "name": "中山藝術公園",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2325438262,
+  "lat": 25.0603688,
+  "lon": 121.4924472,
+  "tags": {
+    "source": "Bing",
+    "name": "中山藝術公園",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2365905405,
+  "lat": 25.0538887,
+  "lon": 121.5439367,
+  "tags": {
+    "name": "捷運南京東路站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2375864486,
+  "lat": 25.0410635,
+  "lon": 121.5623479,
+  "tags": {
+    "name": "聯合報",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2383841420,
+  "lat": 25.0340718,
+  "lon": 121.4932964,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "華江橋 (Huajiang Bridge)"
+  }
+},
+{
+  "type": "node",
+  "id": 2383841421,
+  "lat": 25.0340548,
+  "lon": 121.4930496,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "華江橋 (Huajiang Bridge)"
+  }
+},
+{
+  "type": "node",
+  "id": 2384153360,
+  "lat": 25.0319964,
+  "lon": 121.4894099,
+  "tags": {
+    "name": "人壽一村",
+    "local_ref": "台北市公車",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2384153362,
+  "lat": 25.0320183,
+  "lon": 121.4896031,
+  "tags": {
+    "name": "人壽一村",
+    "local_ref": "台北市公車",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2384166472,
+  "lat": 25.0350561,
+  "lon": 121.5025206,
+  "tags": {
+    "name": "昆明街口",
+    "local_ref": "台北市公車",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2384166473,
+  "lat": 25.0351193,
+  "lon": 121.5002568,
+  "tags": {
+    "name": "捷運龍山寺站",
+    "local_ref": "台北市公車",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2384166474,
+  "lat": 25.0352505,
+  "lon": 121.4963864,
+  "tags": {
+    "name": "中國時報",
+    "local_ref": "台北市公車",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2384166475,
+  "lat": 25.0318433,
+  "lon": 121.4913841,
+  "tags": {
+    "name": "大理高中",
+    "local_ref": "台北市公車",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2384207066,
+  "lat": 25.0311312,
+  "lon": 121.5115838,
+  "tags": {
+    "name": "建國中學(實小)",
+    "local_ref": "台北市公車",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2384207071,
+  "lat": 25.0322759,
+  "lon": 121.5064688,
+  "tags": {
+    "name": "和平中華路口",
+    "local_ref": "台北市公車",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2384207081,
+  "lat": 25.0308445,
+  "lon": 121.5083758,
+  "tags": {
+    "name": "植物園",
+    "local_ref": "台北市公車",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2384207090,
+  "lat": 25.0298675,
+  "lon": 121.5181445,
+  "tags": {
+    "name": "聯合醫院婦幼院區一",
+    "local_ref": "台北市公車",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2384207093,
+  "lat": 25.0312528,
+  "lon": 121.5137188,
+  "tags": {
+    "name": "二二八紀念館",
+    "local_ref": "台北市公車",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2384207096,
+  "lat": 25.0298723,
+  "lon": 121.5158324,
+  "tags": {
+    "name": "自來水西分處",
+    "local_ref": "台北市公車",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2384207100,
+  "lat": 25.0242047,
+  "lon": 121.5696643,
+  "tags": {
+    "name": "松仁路",
+    "local_ref": "台北市公車",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2397332197,
+  "lat": 25.0416257,
+  "lon": 121.5777140,
+  "tags": {
+    "name": "永春里",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2397332198,
+  "lat": 25.0422260,
+  "lon": 121.5779715,
+  "tags": {
+    "source": "Bing",
+    "name": "永春里",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2397332200,
+  "lat": 25.0474031,
+  "lon": 121.5777100,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "松山前站 (松山)"
+  }
+},
+{
+  "type": "node",
+  "id": 2397332203,
+  "lat": 25.0482658,
+  "lon": 121.5789787,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "松山前站 (松隆)"
+  }
+},
+{
+  "type": "node",
+  "id": 2397332206,
+  "lat": 25.0449987,
+  "lon": 121.5779554,
+  "tags": {
+    "source": "Bing",
+    "name": "永春國小",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2397332208,
+  "lat": 25.0451955,
+  "lon": 121.5816984,
+  "tags": {
+    "name": "捷運後山埤站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2397332209,
+  "lat": 25.0473460,
+  "lon": 121.5779299,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "松山前站 (松山)"
+  }
+},
+{
+  "type": "node",
+  "id": 2397332210,
+  "lat": 25.0479159,
+  "lon": 121.5801937,
+  "tags": {
+    "name": "中坡北路",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2397332211,
+  "lat": 25.0431081,
+  "lon": 121.5777033,
+  "tags": {
+    "name": "永吉國小",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2397332212,
+  "lat": 25.0449112,
+  "lon": 121.5777248,
+  "tags": {
+    "name": "永春國小",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2397332213,
+  "lat": 25.0439355,
+  "lon": 121.5779541,
+  "tags": {
+    "name": "永吉國小",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2397332214,
+  "lat": 25.0454506,
+  "lon": 121.5816810,
+  "tags": {
+    "name": "捷運後山埤站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2397332215,
+  "lat": 25.0471456,
+  "lon": 121.5808401,
+  "tags": {
+    "name": "中坡北路",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2397831353,
+  "lat": 25.0430192,
+  "lon": 121.5228287,
+  "tags": {
+    "name": "成功高中(林森)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2407137780,
+  "lat": 25.0267558,
+  "lon": 121.5246838,
+  "tags": {
+    "note": "停靠直行和平東路路線",
+    "name": "捷運古亭站 (和平)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2410090596,
+  "lat": 25.0319172,
+  "lon": 121.5167286,
+  "tags": {
+    "source": "Bing",
+    "name": "南昌路",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2410090597,
+  "lat": 25.0319187,
+  "lon": 121.5165647,
+  "tags": {
+    "name": "南昌路",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2410090598,
+  "lat": 25.0296255,
+  "lon": 121.5184613,
+  "tags": {
+    "source": "Bing",
+    "name": "聯合醫院婦幼院區一",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2410093588,
+  "lat": 25.0380001,
+  "lon": 121.5043931,
+  "tags": {
+    "source": "Bing",
+    "name": "昆明派出所",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2410093589,
+  "lat": 25.0383111,
+  "lon": 121.5027140,
+  "tags": {
+    "name": "老松國小",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2410134942,
+  "lat": 25.0452009,
+  "lon": 121.5086227,
+  "tags": {
+    "shelter": "no",
+    "name": "漢口中華路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2410161283,
+  "lat": 25.0268877,
+  "lon": 121.5551989,
+  "tags": {
+    "shelter": "yes",
+    "note": "停靠 282 與 292",
+    "highway": "bus_stop",
+    "name": "喬治商職"
+  }
+},
+{
+  "type": "node",
+  "id": 2410717322,
+  "lat": 25.0419245,
+  "lon": 121.5487316,
+  "tags": {
+    "name": "忠孝敦化路口",
+    "source": "Bing",
+    "shelter": "yes",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2410717324,
+  "lat": 25.0389861,
+  "lon": 121.5487573,
+  "tags": {
+    "name": "仁愛敦化路口",
+    "shelter": "yes",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2410718854,
+  "lat": 25.0451635,
+  "lon": 121.5487856,
+  "tags": {
+    "name": "市民敦化路口",
+    "source": "Bing",
+    "shelter": "yes",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2410718855,
+  "lat": 25.0484497,
+  "lon": 121.5488022,
+  "tags": {
+    "name": "八德敦化路口",
+    "source": "Bing",
+    "shelter": "yes",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2410718856,
+  "lat": 25.0521462,
+  "lon": 121.5488362,
+  "tags": {
+    "name": "南京敦化路口",
+    "source": "Bing",
+    "shelter": "yes",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2414201453,
+  "lat": 25.0295273,
+  "lon": 121.5020783,
+  "tags": {
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2414201457,
+  "lat": 25.0305722,
+  "lon": 121.5041946,
+  "tags": {
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2414201458,
+  "lat": 25.0304945,
+  "lon": 121.5040846,
+  "tags": {
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2418979064,
+  "lat": 25.0450921,
+  "lon": 121.5123611,
+  "tags": {
+    "name": "漢口街",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2418988010,
+  "lat": 25.0455004,
+  "lon": 121.5132141,
+  "tags": {
+    "name": "重慶南路一段",
+    "shelter": "no",
+    "note": "停靠 220/236/251/247/287",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2419115713,
+  "lat": 25.0433209,
+  "lon": 121.5154946,
+  "tags": {
+    "shelter": "yes",
+    "note": "停靠 20/236/245/251/263/621/644/651/938/信義新",
+    "highway": "bus_stop",
+    "name": "博物館 (襄陽)"
+  }
+},
+{
+  "type": "node",
+  "id": 2419115714,
+  "lat": 25.0434923,
+  "lon": 121.5146167,
+  "tags": {
+    "name": "博物館 (襄陽)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2419584509,
+  "lat": 25.0331605,
+  "lon": 121.5514228,
+  "tags": {
+    "shelter": "yes",
+    "name": "捷運信義安和站 (信義)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2420798950,
+  "lat": 25.0202890,
+  "lon": 121.5458702,
+  "tags": {
+    "name": "大安運動中心",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2420798951,
+  "lat": 25.0221278,
+  "lon": 121.5435894,
+  "tags": {
+    "name": "大安健康服務中心",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2420798959,
+  "lat": 25.0244599,
+  "lon": 121.5432970,
+  "tags": {
+    "name": "國立臺北教育大學",
+    "source": "Bing",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2420918994,
+  "lat": 25.0543154,
+  "lon": 121.5300455,
+  "tags": {
+    "name": "吉林國小",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2421594559,
+  "lat": 25.0413026,
+  "lon": 121.5501976,
+  "tags": {
+    "name": "捷運忠孝敦化站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2421594560,
+  "lat": 25.0411678,
+  "lon": 121.5563688,
+  "tags": {
+    "name": "觀光局",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2421594561,
+  "lat": 25.0414447,
+  "lon": 121.5410861,
+  "tags": {
+    "name": "懷生國中",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2421594562,
+  "lat": 25.0411300,
+  "lon": 121.5593881,
+  "tags": {
+    "name": "捷運國父紀念館站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2421594563,
+  "lat": 25.0414289,
+  "lon": 121.5422421,
+  "tags": {
+    "name": "捷運忠孝復興站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2421595465,
+  "lat": 25.0412728,
+  "lon": 121.5665621,
+  "tags": {
+    "name": "捷運市政府站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2421595466,
+  "lat": 25.0413092,
+  "lon": 121.5630068,
+  "tags": {
+    "name": "聯合報",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2422599117,
+  "lat": 25.0343146,
+  "lon": 121.5525740,
+  "tags": {
+    "name": "捷運信義安和站 (安和)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2422599120,
+  "lat": 25.0396452,
+  "lon": 121.5497430,
+  "tags": {
+    "name": "敦化安和路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2422599123,
+  "lat": 25.0366137,
+  "lon": 121.5522396,
+  "tags": {
+    "name": "仁愛國中",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2422599127,
+  "lat": 25.0412503,
+  "lon": 121.5536288,
+  "tags": {
+    "name": "阿波羅大廈",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2422620743,
+  "lat": 25.0267809,
+  "lon": 121.5278177,
+  "tags": {
+    "name": "師大",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2422620744,
+  "lat": 25.0263483,
+  "lon": 121.5498563,
+  "tags": {
+    "name": "全安里",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2422620745,
+  "lat": 25.0270373,
+  "lon": 121.5244649,
+  "tags": {
+    "note": "停靠左轉羅斯福路路線",
+    "name": "捷運古亭站 (和平)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2422620746,
+  "lat": 25.0376491,
+  "lon": 121.5525932,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "國泰醫院"
+  }
+},
+{
+  "type": "node",
+  "id": 2422620747,
+  "lat": 25.0378994,
+  "lon": 121.5516411,
+  "tags": {
+    "name": "仁愛安和路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2422620748,
+  "lat": 25.0388848,
+  "lon": 121.5577434,
+  "tags": {
+    "name": "國父紀念館",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2422620749,
+  "lat": 25.0259278,
+  "lon": 121.5502426,
+  "tags": {
+    "name": "全安里",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2422620750,
+  "lat": 25.0248390,
+  "lon": 121.5501272,
+  "tags": {
+    "name": "安和路",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2422620751,
+  "lat": 25.0257115,
+  "lon": 121.5386820,
+  "tags": {
+    "note": "3/211 停靠",
+    "name": "龍門國中 (和平)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2422620752,
+  "lat": 25.0259619,
+  "lon": 121.5362811,
+  "tags": {
+    "name": "大安森林公園",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2422620753,
+  "lat": 25.0263519,
+  "lon": 121.5333390,
+  "tags": {
+    "name": "溫州街口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2422620754,
+  "lat": 25.0266108,
+  "lon": 121.5300292,
+  "tags": {
+    "name": "師大綜合大樓",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2422620755,
+  "lat": 25.0378496,
+  "lon": 121.5557194,
+  "tags": {
+    "name": "仁愛延吉街口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2422620756,
+  "lat": 25.0364692,
+  "lon": 121.5520513,
+  "tags": {
+    "name": "仁愛國小",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2422620757,
+  "lat": 25.0343805,
+  "lon": 121.5523454,
+  "tags": {
+    "name": "捷運信義安和站 (安和)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2422620758,
+  "lat": 25.0376029,
+  "lon": 121.5551607,
+  "tags": {
+    "name": "仁愛延吉街口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2422620759,
+  "lat": 25.0378725,
+  "lon": 121.5531501,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "國泰醫院"
+  }
+},
+{
+  "type": "node",
+  "id": 2422620760,
+  "lat": 25.0377086,
+  "lon": 121.5507425,
+  "tags": {
+    "name": "仁愛安和路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2422620761,
+  "lat": 25.0390780,
+  "lon": 121.5575248,
+  "tags": {
+    "name": "國父紀念館",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2422620762,
+  "lat": 25.0310984,
+  "lon": 121.5523183,
+  "tags": {
+    "name": "文昌街口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2422620763,
+  "lat": 25.0310911,
+  "lon": 121.5524819,
+  "tags": {
+    "name": "文昌街口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2422620764,
+  "lat": 25.0287494,
+  "lon": 121.5503240,
+  "tags": {
+    "name": "立人國際中小學",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2422620765,
+  "lat": 25.0375810,
+  "lon": 121.5572242,
+  "tags": {
+    "name": "仁愛光復路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2422630123,
+  "lat": 25.0428434,
+  "lon": 121.5302562,
+  "tags": {
+    "name": "忠孝國小",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2422630124,
+  "lat": 25.0438738,
+  "lon": 121.5263790,
+  "tags": {
+    "name": "審計部",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2422630125,
+  "lat": 25.0461228,
+  "lon": 121.5170622,
+  "tags": {
+    "name": "臺北車站 (忠孝)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2422630126,
+  "lat": 25.0469040,
+  "lon": 121.5138718,
+  "tags": {
+    "name": "臺北車站 (忠孝)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2424163023,
+  "lat": 25.0425279,
+  "lon": 121.5576075,
+  "tags": {
+    "wheelchair": "yes",
+    "name": "捷運國父紀念館站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2424163024,
+  "lat": 25.0493442,
+  "lon": 121.5576680,
+  "tags": {
+    "wheelchair": "yes",
+    "source": "Bing",
+    "name": "博仁醫院",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2424163025,
+  "lat": 25.0469404,
+  "lon": 121.5579339,
+  "tags": {
+    "wheelchair": "yes",
+    "name": "臺北市區監理所",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2424163026,
+  "lat": 25.0419617,
+  "lon": 121.5578851,
+  "tags": {
+    "name": "捷運國父紀念館站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2424163027,
+  "lat": 25.0339410,
+  "lon": 121.5576397,
+  "tags": {
+    "name": "三張犁",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2424163028,
+  "lat": 25.0365401,
+  "lon": 121.5574184,
+  "tags": {
+    "name": "市民住宅",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2424163029,
+  "lat": 25.0473345,
+  "lon": 121.5576410,
+  "tags": {
+    "wheelchair": "yes",
+    "source": "Bing",
+    "name": "臺北市區監理所",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2424163030,
+  "lat": 25.0308631,
+  "lon": 121.5573205,
+  "tags": {
+    "name": "光復南路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2424163031,
+  "lat": 25.0485454,
+  "lon": 121.5579822,
+  "tags": {
+    "wheelchair": "yes",
+    "name": "榮民服務處",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2424163032,
+  "lat": 25.0310441,
+  "lon": 121.5575015,
+  "tags": {
+    "name": "光復南路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2424163033,
+  "lat": 25.0366187,
+  "lon": 121.5576952,
+  "tags": {
+    "name": "市民住宅",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2426954474,
+  "lat": 25.0333074,
+  "lon": 121.5462335,
+  "tags": {
+    "name": "信義大安路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2426954475,
+  "lat": 25.0332102,
+  "lon": 121.5482479,
+  "tags": {
+    "name": "信義敦化路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2426954476,
+  "lat": 25.0372565,
+  "lon": 121.5078109,
+  "tags": {
+    "name": "小南門 (和平院區)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2426954477,
+  "lat": 25.0332503,
+  "lon": 121.5456904,
+  "tags": {
+    "name": "信義大安路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2426954478,
+  "lat": 25.0380694,
+  "lon": 121.5068265,
+  "tags": {
+    "name": "小南門",
+    "source": "Bing",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2426954479,
+  "lat": 25.0341677,
+  "lon": 121.5268425,
+  "tags": {
+    "name": "捷運東門站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2426954480,
+  "lat": 25.0381204,
+  "lon": 121.5024588,
+  "tags": {
+    "name": "老松國小",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2426954481,
+  "lat": 25.0385044,
+  "lon": 121.5008304,
+  "tags": {
+    "name": "桂林路",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2426954482,
+  "lat": 25.0383112,
+  "lon": 121.5011201,
+  "tags": {
+    "name": "桂林路",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2426954483,
+  "lat": 25.0422033,
+  "lon": 121.5047864,
+  "tags": {
+    "name": "昆明街 (中醫醫院)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2426954484,
+  "lat": 25.0334958,
+  "lon": 121.5322015,
+  "tags": {
+    "name": "信義新生路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2426954485,
+  "lat": 25.0334387,
+  "lon": 121.5432533,
+  "tags": {
+    "name": "捷運大安站 (信義)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2426954486,
+  "lat": 25.0355578,
+  "lon": 121.5239336,
+  "tags": {
+    "name": "信義杭州路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2426954487,
+  "lat": 25.0334641,
+  "lon": 121.5355984,
+  "tags": {
+    "name": "捷運大安森林公園站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2426954488,
+  "lat": 25.0333949,
+  "lon": 121.5421592,
+  "tags": {
+    "name": "師大附中",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2426954489,
+  "lat": 25.0372589,
+  "lon": 121.5207364,
+  "tags": {
+    "name": "信義林森路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2426954490,
+  "lat": 25.0334630,
+  "lon": 121.5382097,
+  "tags": {
+    "name": "信義建國路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2426954491,
+  "lat": 25.0333826,
+  "lon": 121.5392342,
+  "tags": {
+    "name": "信義建國路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2426954492,
+  "lat": 25.0371532,
+  "lon": 121.5206962,
+  "tags": {
+    "name": "信義林森路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2426954493,
+  "lat": 25.0335261,
+  "lon": 121.5364287,
+  "tags": {
+    "name": "捷運大安森林公園站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2426954494,
+  "lat": 25.0391508,
+  "lon": 121.5094578,
+  "tags": {
+    "name": "東吳大學城中校區",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2426954495,
+  "lat": 25.0390573,
+  "lon": 121.5091158,
+  "tags": {
+    "name": "東吳大學城中校區",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2426954496,
+  "lat": 25.0337011,
+  "lon": 121.5296937,
+  "tags": {
+    "name": "信義永康街口 (捷運東門站)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2426954497,
+  "lat": 25.0353063,
+  "lon": 121.5245908,
+  "tags": {
+    "name": "信義杭州路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2426954498,
+  "lat": 25.0336944,
+  "lon": 121.5303065,
+  "tags": {
+    "name": "信義永康街口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2426954499,
+  "lat": 25.0381885,
+  "lon": 121.5074702,
+  "tags": {
+    "name": "小南門",
+    "source": "Bing",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2426954500,
+  "lat": 25.0332503,
+  "lon": 121.5492751,
+  "tags": {
+    "name": "信義敦化路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2426954501,
+  "lat": 25.0332224,
+  "lon": 121.5525501,
+  "tags": {
+    "shelter": "yes",
+    "name": "捷運信義安和站 (信義)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2426954502,
+  "lat": 25.0335662,
+  "lon": 121.5331335,
+  "tags": {
+    "name": "信義新生路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2426954503,
+  "lat": 25.0340231,
+  "lon": 121.5276123,
+  "tags": {
+    "name": "捷運東門站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2426954504,
+  "lat": 25.0331148,
+  "lon": 121.5576255,
+  "tags": {
+    "name": "信義光復路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2426954505,
+  "lat": 25.0333609,
+  "lon": 121.5439174,
+  "tags": {
+    "name": "捷運大安站 (信義)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2426954506,
+  "lat": 25.0330328,
+  "lon": 121.5573915,
+  "tags": {
+    "name": "信義光復路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2426954507,
+  "lat": 25.0331665,
+  "lon": 121.5545368,
+  "tags": {
+    "name": "信義通化街口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2426954508,
+  "lat": 25.0331142,
+  "lon": 121.5539048,
+  "tags": {
+    "name": "信義通化街口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2426962131,
+  "lat": 25.0322078,
+  "lon": 121.5188434,
+  "tags": {
+    "name": "捷運中正紀念堂站 (羅斯一)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2426970356,
+  "lat": 25.0356023,
+  "lon": 121.5065717,
+  "tags": {
+    "name": "聯合醫院和平院區",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2426976627,
+  "lat": 25.0446425,
+  "lon": 121.5329604,
+  "tags": {
+    "name": "光華商場",
+    "source": "Bing",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2426976628,
+  "lat": 25.0481709,
+  "lon": 121.5330127,
+  "tags": {
+    "name": "長安松江路口",
+    "source": "Bing",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2426976629,
+  "lat": 25.0330704,
+  "lon": 121.5329553,
+  "tags": {
+    "name": "信義新生路口",
+    "source": "Bing",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2426976630,
+  "lat": 25.0376147,
+  "lon": 121.5328828,
+  "tags": {
+    "name": "仁愛新生路口",
+    "source": "Bing",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2426976631,
+  "lat": 25.0303432,
+  "lon": 121.5339021,
+  "tags": {
+    "name": "金華新生路口",
+    "source": "Bing",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2426976632,
+  "lat": 25.0418577,
+  "lon": 121.5329228,
+  "tags": {
+    "name": "捷運忠孝新生站",
+    "source": "Bing",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2428293148,
+  "lat": 25.0360329,
+  "lon": 121.5645469,
+  "tags": {
+    "name": "市政府 (松壽)",
+    "source": "Bing",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2428293152,
+  "lat": 25.0357604,
+  "lon": 121.5648765,
+  "tags": {
+    "name": "市政府 (松壽)",
+    "source": "Bing",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2428293156,
+  "lat": 25.0359220,
+  "lon": 121.5666052,
+  "tags": {
+    "source": "Bing",
+    "name": "松壽路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2428293160,
+  "lat": 25.0357264,
+  "lon": 121.5672100,
+  "tags": {
+    "name": "松壽路口",
+    "source": "Bing",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2435556605,
+  "lat": 25.0377912,
+  "lon": 121.5578302,
+  "tags": {
+    "source": "Bing",
+    "name": "仁愛光復路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2435574735,
+  "lat": 25.0367802,
+  "lon": 121.5652706,
+  "tags": {
+    "source": "Bing",
+    "name": "市政府 (松智)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2435574736,
+  "lat": 25.0374644,
+  "lon": 121.5611352,
+  "tags": {
+    "name": "國父紀念館",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2435574737,
+  "lat": 25.0376490,
+  "lon": 121.5610359,
+  "tags": {
+    "name": "國父紀念館",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2435574738,
+  "lat": 25.0367559,
+  "lon": 121.5655497,
+  "tags": {
+    "source": "Bing",
+    "name": "市政府 (松智)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2435574739,
+  "lat": 25.0371375,
+  "lon": 121.5620119,
+  "tags": {
+    "name": "市議會",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2435574740,
+  "lat": 25.0327242,
+  "lon": 121.5677168,
+  "tags": {
+    "name": "信義行政中心 (信義)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2435574741,
+  "lat": 25.0343038,
+  "lon": 121.5653110,
+  "tags": {
+    "name": "世貿二館",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2435574745,
+  "lat": 25.0346068,
+  "lon": 121.5655538,
+  "tags": {
+    "name": "世貿二館(松智)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2435590491,
+  "lat": 25.0379686,
+  "lon": 121.5346371,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "仁愛新生路口"
+  }
+},
+{
+  "type": "node",
+  "id": 2435590492,
+  "lat": 25.0382201,
+  "lon": 121.5347716,
+  "tags": {
+    "name": "仁愛新生路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2435590493,
+  "lat": 25.0379807,
+  "lon": 121.5372067,
+  "tags": {
+    "name": "仁愛建國路口 (一)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2435590494,
+  "lat": 25.0383976,
+  "lon": 121.5340072,
+  "tags": {
+    "name": "新生南路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2435590495,
+  "lat": 25.0379675,
+  "lon": 121.5474933,
+  "tags": {
+    "name": "仁愛敦化路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2435590496,
+  "lat": 25.0377731,
+  "lon": 121.5474933,
+  "tags": {
+    "name": "仁愛敦化路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2435590497,
+  "lat": 25.0382771,
+  "lon": 121.5295569,
+  "tags": {
+    "name": "仁愛臨沂街口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2435590498,
+  "lat": 25.0381727,
+  "lon": 121.5279450,
+  "tags": {
+    "name": "仁愛臨沂街口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2435590499,
+  "lat": 25.0380925,
+  "lon": 121.5323116,
+  "tags": {
+    "name": "仁愛新生路口 (一)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2435590500,
+  "lat": 25.0381824,
+  "lon": 121.5395053,
+  "tags": {
+    "name": "仁愛建國路口 (一)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2435590501,
+  "lat": 25.0378981,
+  "lon": 121.5412622,
+  "tags": {
+    "name": "仁愛建國路口 (二)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2435590502,
+  "lat": 25.0380536,
+  "lon": 121.5440812,
+  "tags": {
+    "name": "仁愛復興路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2435590503,
+  "lat": 25.0378228,
+  "lon": 121.5456851,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "仁愛大安路口"
+  }
+},
+{
+  "type": "node",
+  "id": 2435592631,
+  "lat": 25.0387535,
+  "lon": 121.5212904,
+  "tags": {
+    "name": "仁愛林森路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2435592632,
+  "lat": 25.0383404,
+  "lon": 121.5255685,
+  "tags": {
+    "name": "仁愛杭州路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2435592633,
+  "lat": 25.0388896,
+  "lon": 121.5213012,
+  "tags": {
+    "name": "仁愛林森路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2435592634,
+  "lat": 25.0384060,
+  "lon": 121.5238546,
+  "tags": {
+    "name": "仁愛紹興路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2435647530,
+  "lat": 25.0453087,
+  "lon": 121.5782621,
+  "tags": {
+    "name": "永春國小",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2440613737,
+  "lat": 25.0363176,
+  "lon": 121.5085484,
+  "tags": {
+    "source": "Bing",
+    "name": "小南門 (和平院區)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2440613738,
+  "lat": 25.0351861,
+  "lon": 121.5116062,
+  "tags": {
+    "source": "Bing",
+    "name": "捷運小南門站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2441160819,
+  "lat": 25.0466695,
+  "lon": 121.5131391,
+  "tags": {
+    "name": "臺北車站 (重慶)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2441338329,
+  "lat": 25.0578622,
+  "lon": 121.5294220,
+  "tags": {
+    "name": "中山老人住宅",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2442959683,
+  "lat": 25.0432776,
+  "lon": 121.5145180,
+  "tags": {
+    "source": "Bing",
+    "shelter": "yes",
+    "highway": "bus_stop",
+    "name": "博物館 (襄陽)",
+    "note": "停靠 222/241/243/513/640/656/835/670/706"
+  }
+},
+{
+  "type": "node",
+  "id": 2442985832,
+  "lat": 25.0447701,
+  "lon": 121.5131255,
+  "tags": {
+    "source": "Bing",
+    "shelter": "yes",
+    "highway": "bus_stop",
+    "name": "重慶南路一段",
+    "note": "停靠 241/243/245/605/605快速/644/656/670/706/835/938"
+  }
+},
+{
+  "type": "node",
+  "id": 2442985833,
+  "lat": 25.0444566,
+  "lon": 121.5131148,
+  "tags": {
+    "source": "Bing",
+    "shelter": "yes",
+    "highway": "bus_stop",
+    "name": "重慶南路一段",
+    "note": "停靠 15/18/22/257/276/重慶(中興)"
+  }
+},
+{
+  "type": "node",
+  "id": 2442990950,
+  "lat": 25.0529092,
+  "lon": 121.5187282,
+  "tags": {
+    "source": "Bing",
+    "shelter": "no",
+    "highway": "bus_stop",
+    "name": "捷運中山站 (志仁高中)"
+  }
+},
+{
+  "type": "node",
+  "id": 2442990951,
+  "lat": 25.0531758,
+  "lon": 121.5186204,
+  "tags": {
+    "source": "Bing",
+    "shelter": "no",
+    "highway": "bus_stop",
+    "name": "捷運中山站 (志仁高中)"
+  }
+},
+{
+  "type": "node",
+  "id": 2442990952,
+  "lat": 25.0520665,
+  "lon": 121.5250221,
+  "tags": {
+    "shelter": "yes",
+    "name": "南京林森路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2442990953,
+  "lat": 25.0521101,
+  "lon": 121.5258499,
+  "tags": {
+    "name": "南京林森路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2442990954,
+  "lat": 25.0521393,
+  "lon": 121.5282846,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "南京吉林路口",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2442990955,
+  "lat": 25.0520200,
+  "lon": 121.5282937,
+  "tags": {
+    "source": "Bing",
+    "shelter": "yes",
+    "highway": "bus_stop",
+    "name": "南京吉林路口"
+  }
+},
+{
+  "type": "node",
+  "id": 2447066646,
+  "lat": 25.0521036,
+  "lon": 121.5312176,
+  "tags": {
+    "name": "捷運松江南京站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2447066647,
+  "lat": 25.0519773,
+  "lon": 121.5312136,
+  "tags": {
+    "name": "捷運松江南京站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2447073212,
+  "lat": 25.0518805,
+  "lon": 121.5402425,
+  "tags": {
+    "name": "南京龍江路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2447073215,
+  "lat": 25.0520056,
+  "lon": 121.5402434,
+  "tags": {
+    "name": "南京龍江路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2447073218,
+  "lat": 25.0520277,
+  "lon": 121.5377105,
+  "tags": {
+    "name": "南京建國路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2447073221,
+  "lat": 25.0519275,
+  "lon": 121.5377132,
+  "tags": {
+    "name": "南京建國路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2447087409,
+  "lat": 25.0517663,
+  "lon": 121.5451168,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "南京復興路口"
+  }
+},
+{
+  "type": "node",
+  "id": 2447087410,
+  "lat": 25.0430538,
+  "lon": 121.5492583,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "捷運忠孝敦化站"
+  }
+},
+{
+  "type": "node",
+  "id": 2447087411,
+  "lat": 25.0393309,
+  "lon": 121.5492019,
+  "tags": {
+    "name": "安和敦化路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2447087412,
+  "lat": 25.0457243,
+  "lon": 121.5491899,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "市民大道口"
+  }
+},
+{
+  "type": "node",
+  "id": 2447087413,
+  "lat": 25.0488697,
+  "lon": 121.5492395,
+  "tags": {
+    "name": "市立體育場",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2447087414,
+  "lat": 25.0519023,
+  "lon": 121.5451208,
+  "tags": {
+    "name": "南京復興路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2447089562,
+  "lat": 25.0517929,
+  "lon": 121.5496142,
+  "tags": {
+    "name": "南京敦化路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2447089565,
+  "lat": 25.0516532,
+  "lon": 121.5496182,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "南京敦化路口"
+  }
+},
+{
+  "type": "node",
+  "id": 2448296742,
+  "lat": 25.0214071,
+  "lon": 121.5317144,
+  "tags": {
+    "name": "溫州街口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2455453899,
+  "lat": 25.0305120,
+  "lon": 121.5265207,
+  "tags": {
+    "source": "Survey 12 Sep 2013",
+    "note": "606/670/214含直/237",
+    "highway": "bus_stop",
+    "name": "公企中心"
+  }
+},
+{
+  "type": "node",
+  "id": 2459036542,
+  "lat": 25.0268457,
+  "lon": 121.5233446,
+  "tags": {
+    "note": "停靠左轉金山南路路線",
+    "name": "捷運古亭站 (和平)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2459039756,
+  "lat": 25.0306759,
+  "lon": 121.5268047,
+  "tags": {
+    "name": "公企中心",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2459039757,
+  "lat": 25.0367284,
+  "lon": 121.5277113,
+  "tags": {
+    "name": "仁愛路二段",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2459039758,
+  "lat": 25.0332739,
+  "lon": 121.5273304,
+  "tags": {
+    "name": "捷運東門站 (金山)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2459039759,
+  "lat": 25.0397722,
+  "lon": 121.5286500,
+  "tags": {
+    "name": "金山泰安街口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2459039760,
+  "lat": 25.0405353,
+  "lon": 121.5292938,
+  "tags": {
+    "name": "金山泰安街口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2459039761,
+  "lat": 25.0488459,
+  "lon": 121.5294560,
+  "tags": {
+    "name": "長安新生北路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2459039762,
+  "lat": 25.0509162,
+  "lon": 121.5282946,
+  "tags": {
+    "source": "Bing",
+    "name": "南京新生北路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2459039763,
+  "lat": 25.0375413,
+  "lon": 121.5283148,
+  "tags": {
+    "name": "仁愛路二段",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2459652479,
+  "lat": 25.0637243,
+  "lon": 121.5279566,
+  "tags": {
+    "name": "中山國小",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2459652483,
+  "lat": 25.0566950,
+  "lon": 121.5277787,
+  "tags": {
+    "name": "中山老人住宅",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2459652486,
+  "lat": 25.0806745,
+  "lon": 121.5243847,
+  "tags": {
+    "name": "劍潭",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2459652489,
+  "lat": 25.0905251,
+  "lon": 121.5273051,
+  "tags": {
+    "name": "台電台北北區營業處",
+    "source": "Bing",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2459652491,
+  "lat": 25.0912001,
+  "lon": 121.5277729,
+  "tags": {
+    "name": "台電台北北區營業處",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2459652492,
+  "lat": 25.0541270,
+  "lon": 121.5277299,
+  "tags": {
+    "name": "吉林國小",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2459652505,
+  "lat": 25.0853718,
+  "lon": 121.5254405,
+  "tags": {
+    "name": "捷運劍潭站 (中山)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2459652509,
+  "lat": 25.0927185,
+  "lon": 121.5276769,
+  "tags": {
+    "name": "捷運士林站 (中山)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2459652512,
+  "lat": 25.0618279,
+  "lon": 121.5279220,
+  "tags": {
+    "name": "新興國中",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2459652514,
+  "lat": 25.0675298,
+  "lon": 121.5280511,
+  "tags": {
+    "name": "民族東路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2459652521,
+  "lat": 25.0660242,
+  "lon": 121.5280310,
+  "tags": {
+    "name": "稻江護校",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2459652524,
+  "lat": 25.0868467,
+  "lon": 121.5267228,
+  "tags": {
+    "name": "銘傳大學",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2459652527,
+  "lat": 25.0879275,
+  "lon": 121.5270220,
+  "tags": {
+    "name": "銘傳大學",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2460552082,
+  "lat": 25.0634854,
+  "lon": 121.5275169,
+  "tags": {
+    "name": "中山國小",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2460552086,
+  "lat": 25.0570940,
+  "lon": 121.5273640,
+  "tags": {
+    "name": "中山老人住宅",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2460552089,
+  "lat": 25.0817402,
+  "lon": 121.5246932,
+  "tags": {
+    "name": "劍潭",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2460552092,
+  "lat": 25.0510870,
+  "lon": 121.5277039,
+  "tags": {
+    "name": "南京新生北路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2460552095,
+  "lat": 25.0533532,
+  "lon": 121.5273538,
+  "tags": {
+    "name": "吉林國小",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2460552100,
+  "lat": 25.0928213,
+  "lon": 121.5256724,
+  "tags": {
+    "name": "士林區農會",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2460552102,
+  "lat": 25.0907198,
+  "lon": 121.5269207,
+  "tags": {
+    "name": "小北街",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2460552103,
+  "lat": 25.0910289,
+  "lon": 121.5266730,
+  "tags": {
+    "name": "小北街",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2460552107,
+  "lat": 25.0850602,
+  "lon": 121.5250408,
+  "tags": {
+    "name": "捷運劍潭站 (基河)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2460552111,
+  "lat": 25.0850933,
+  "lon": 121.5248492,
+  "tags": {
+    "name": "捷運劍潭站 (基河)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2460552125,
+  "lat": 25.0611420,
+  "lon": 121.5274676,
+  "tags": {
+    "name": "新興國中",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2460552126,
+  "lat": 25.0673181,
+  "lon": 121.5275880,
+  "tags": {
+    "name": "民族東路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2460552127,
+  "lat": 25.0649680,
+  "lon": 121.5275700,
+  "tags": {
+    "name": "稻江護校",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2460552130,
+  "lat": 25.0491215,
+  "lon": 121.5286853,
+  "tags": {
+    "name": "長安新生北路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2460552131,
+  "lat": 25.0872364,
+  "lon": 121.5257198,
+  "tags": {
+    "note": "僅部分路線停靠",
+    "name": "陽明戲院",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2461138531,
+  "lat": 25.0482622,
+  "lon": 121.5408151,
+  "tags": {
+    "name": "長安龍江路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2461138532,
+  "lat": 25.0483983,
+  "lon": 121.5408151,
+  "tags": {
+    "name": "長安龍江路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2461209855,
+  "lat": 25.0484544,
+  "lon": 121.5377281,
+  "tags": {
+    "name": "中山女高",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2461209856,
+  "lat": 25.0482587,
+  "lon": 121.5382481,
+  "tags": {
+    "name": "中山女高",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2461631520,
+  "lat": 25.0495061,
+  "lon": 121.5101341,
+  "tags": {
+    "name": "北門 (臺北地下街)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2478924585,
+  "lat": 25.0462527,
+  "lon": 121.5372071,
+  "tags": {
+    "name": "進安公園",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2478951513,
+  "lat": 25.0473896,
+  "lon": 121.5428645,
+  "tags": {
+    "source": "Bing",
+    "name": "中崙",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2478951517,
+  "lat": 25.0469182,
+  "lon": 121.5409265,
+  "tags": {
+    "name": "中影八德大樓",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2478951519,
+  "lat": 25.0466374,
+  "lon": 121.5408166,
+  "tags": {
+    "name": "中影八德大樓",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2478956818,
+  "lat": 25.0480554,
+  "lon": 121.5463915,
+  "tags": {
+    "name": "臺安醫院",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2478956821,
+  "lat": 25.0479825,
+  "lon": 121.5452757,
+  "tags": {
+    "name": "臺安醫院",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2486816973,
+  "lat": 25.0437172,
+  "lon": 121.5305485,
+  "tags": {
+    "note": "僅2021停靠?",
+    "name": "審計部",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2491331313,
+  "lat": 25.0440960,
+  "lon": 121.5314457,
+  "tags": {
+    "name": "臺北科技大學",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2491331314,
+  "lat": 25.0470285,
+  "lon": 121.5363677,
+  "tags": {
+    "name": "建國啤酒廠",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2491474584,
+  "lat": 25.0614574,
+  "lon": 121.5255110,
+  "tags": {
+    "name": "新興國中",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2495318241,
+  "lat": 25.0263800,
+  "lon": 121.5483972,
+  "tags": {
+    "name": "鳳雛公園",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2495318243,
+  "lat": 25.0288370,
+  "lon": 121.5484080,
+  "tags": {
+    "name": "成功國宅",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2495318246,
+  "lat": 25.0296608,
+  "lon": 121.5490115,
+  "tags": {
+    "name": "大安國中",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2495318250,
+  "lat": 25.0359403,
+  "lon": 121.5491670,
+  "tags": {
+    "name": "仁愛國中",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2495318253,
+  "lat": 25.0336392,
+  "lon": 121.5486762,
+  "tags": {
+    "name": "信義敦化路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2495318256,
+  "lat": 25.0324045,
+  "lon": 121.5485073,
+  "tags": {
+    "name": "大安國中",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2495318273,
+  "lat": 25.0324800,
+  "lon": 121.5490893,
+  "tags": {
+    "name": "信義敦化路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2495330805,
+  "lat": 25.0414633,
+  "lon": 121.5382008,
+  "tags": {
+    "name": "正義郵局",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2495367433,
+  "lat": 25.0411972,
+  "lon": 121.5436221,
+  "tags": {
+    "note": "僅1960和S31懷恩忠孝復興線停靠",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2495367437,
+  "lat": 25.0410393,
+  "lon": 121.5439573,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "捷運忠孝復興站",
+    "note": "僅555停靠"
+  }
+},
+{
+  "type": "node",
+  "id": 2495367441,
+  "lat": 25.0358461,
+  "lon": 121.5434933,
+  "tags": {
+    "name": "和安里",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2495367444,
+  "lat": 25.0358266,
+  "lon": 121.5438554,
+  "tags": {
+    "name": "和安里",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2495367447,
+  "lat": 25.0324437,
+  "lon": 121.5434397,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "大安高工"
+  }
+},
+{
+  "type": "node",
+  "id": 2495367451,
+  "lat": 25.0268515,
+  "lon": 121.5432467,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "捷運科技大樓站"
+  }
+},
+{
+  "type": "node",
+  "id": 2495367454,
+  "lat": 25.0295298,
+  "lon": 121.5433431,
+  "tags": {
+    "source": "Bing",
+    "name": "開平餐飲學校",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2495367458,
+  "lat": 25.0375083,
+  "lon": 121.5435416,
+  "tags": {
+    "name": "聯合醫院仁愛院區",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2495367461,
+  "lat": 25.0535706,
+  "lon": 121.5441828,
+  "tags": {
+    "name": "捷運南京東路站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2495367464,
+  "lat": 25.0395957,
+  "lon": 121.5435881,
+  "tags": {
+    "name": "懷生國中",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2495367466,
+  "lat": 25.0494276,
+  "lon": 121.5438242,
+  "tags": {
+    "name": "芝麻大廈",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2495367469,
+  "lat": 25.0462542,
+  "lon": 121.5436864,
+  "tags": {
+    "name": "中崙里",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2495367472,
+  "lat": 25.0489659,
+  "lon": 121.5441227,
+  "tags": {
+    "name": "芝麻大廈",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2501778129,
+  "lat": 25.0236345,
+  "lon": 121.5483960,
+  "tags": {
+    "name": "敦化和平路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2501778130,
+  "lat": 25.0274903,
+  "lon": 121.5491028,
+  "tags": {
+    "name": "成功國宅",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2501778131,
+  "lat": 25.0237648,
+  "lon": 121.5491835,
+  "tags": {
+    "name": "敦化和平路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2506289795,
+  "lat": 25.0676291,
+  "lon": 121.5425238,
+  "tags": {
+    "name": "下埤里",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2506289796,
+  "lat": 25.0678931,
+  "lon": 121.5424376,
+  "tags": {
+    "name": "下埤里",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2506289797,
+  "lat": 25.0636893,
+  "lon": 121.5441617,
+  "tags": {
+    "name": "五常街口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2506289798,
+  "lat": 25.0649383,
+  "lon": 121.5441965,
+  "tags": {
+    "name": "復興北村",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2506289799,
+  "lat": 25.0604632,
+  "lon": 121.5331743,
+  "tags": {
+    "name": "捷運行天宮站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2506289800,
+  "lat": 25.0672004,
+  "lon": 121.5335273,
+  "tags": {
+    "name": "新生公園（林安泰）",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2506289801,
+  "lat": 25.0674902,
+  "lon": 121.5331059,
+  "tags": {
+    "name": "新生公園（林安泰）",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2506289802,
+  "lat": 25.0623587,
+  "lon": 121.5365216,
+  "tags": {
+    "name": "民權建國路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2506289803,
+  "lat": 25.0624955,
+  "lon": 121.5334408,
+  "tags": {
+    "name": "民權松江路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2506289804,
+  "lat": 25.0623476,
+  "lon": 121.5405733,
+  "tags": {
+    "name": "民權龍江路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2506289805,
+  "lat": 25.0680363,
+  "lon": 121.5387094,
+  "tags": {
+    "name": "第二果菜市場",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2506289806,
+  "lat": 25.0682538,
+  "lon": 121.5392888,
+  "tags": {
+    "name": "第二果菜市場",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2506289838,
+  "lat": 25.0680797,
+  "lon": 121.5368085,
+  "tags": {
+    "name": "臺北漁市",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2506289844,
+  "lat": 25.0682739,
+  "lon": 121.5372967,
+  "tags": {
+    "name": "臺北漁市",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2506289848,
+  "lat": 25.0634208,
+  "lon": 121.5330298,
+  "tags": {
+    "name": "行天宮",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2506754599,
+  "lat": 25.0576535,
+  "lon": 121.5426342,
+  "tags": {
+    "name": "台北大學（台北校區）",
+    "highway": "bus_stop",
+    "source": "survay"
+  }
+},
+{
+  "type": "node",
+  "id": 2506754602,
+  "lat": 25.0615853,
+  "lon": 121.5440757,
+  "tags": {
+    "name": "捷運中山國中站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509549125,
+  "lat": 25.0630376,
+  "lon": 121.5255257,
+  "tags": {
+    "name": "中山國小",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509549126,
+  "lat": 25.0635428,
+  "lon": 121.5257005,
+  "tags": {
+    "name": "中山國小",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509549129,
+  "lat": 25.0704527,
+  "lon": 121.5231426,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "台北市立美術館"
+  }
+},
+{
+  "type": "node",
+  "id": 2509549130,
+  "lat": 25.0721585,
+  "lon": 121.5240380,
+  "tags": {
+    "name": "台北市立美術館",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509549131,
+  "lat": 25.0683201,
+  "lon": 121.5238936,
+  "tags": {
+    "name": "大同大學",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509549132,
+  "lat": 25.0684931,
+  "lon": 121.5237757,
+  "tags": {
+    "name": "大同大學",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509549134,
+  "lat": 25.0453827,
+  "lon": 121.5236465,
+  "tags": {
+    "name": "捷運善導寺站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509549135,
+  "lat": 25.0456706,
+  "lon": 121.5234681,
+  "tags": {
+    "name": "捷運善導寺站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509549136,
+  "lat": 25.0613502,
+  "lon": 121.5256425,
+  "tags": {
+    "name": "新興國中",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509549137,
+  "lat": 25.0669680,
+  "lon": 121.5258083,
+  "tags": {
+    "name": "景福宮",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509549138,
+  "lat": 25.0672037,
+  "lon": 121.5256447,
+  "tags": {
+    "name": "景福宮",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509549139,
+  "lat": 25.0377036,
+  "lon": 121.5174815,
+  "tags": {
+    "name": "景福門",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509549141,
+  "lat": 25.0506717,
+  "lon": 121.5251044,
+  "tags": {
+    "name": "林森北路(一)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509549142,
+  "lat": 25.0507254,
+  "lon": 121.5249547,
+  "tags": {
+    "name": "林森北路(一)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509549143,
+  "lat": 25.0536207,
+  "lon": 121.5254883,
+  "tags": {
+    "name": "欣欣大眾公司",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509549194,
+  "lat": 25.0586389,
+  "lon": 121.5255756,
+  "tags": {
+    "name": "聚盛里",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509549195,
+  "lat": 25.0415470,
+  "lon": 121.5185578,
+  "tags": {
+    "name": "臺大醫院",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509549196,
+  "lat": 25.0423077,
+  "lon": 121.5184514,
+  "tags": {
+    "name": "臺大醫院",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509549197,
+  "lat": 25.0481302,
+  "lon": 121.5244167,
+  "tags": {
+    "name": "華山公園",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509549198,
+  "lat": 25.0484859,
+  "lon": 121.5242745,
+  "tags": {
+    "name": "華山公園",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509549199,
+  "lat": 25.0569270,
+  "lon": 121.5255803,
+  "tags": {
+    "name": "華泰飯店",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509549201,
+  "lat": 25.0418685,
+  "lon": 121.5225320,
+  "tags": {
+    "name": "開南商工",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509668570,
+  "lat": 25.0779059,
+  "lon": 121.5339494,
+  "tags": {
+    "name": "七海文化園區",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509668571,
+  "lat": 25.0778897,
+  "lon": 121.5297078,
+  "tags": {
+    "name": "中央電台",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509668572,
+  "lat": 25.0780478,
+  "lon": 121.5298560,
+  "tags": {
+    "name": "中央電台",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509668573,
+  "lat": 25.0683835,
+  "lon": 121.5206862,
+  "tags": {
+    "name": "中山足球場",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509668574,
+  "lat": 25.0685395,
+  "lon": 121.5208699,
+  "tags": {
+    "name": "中山足球場",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509668575,
+  "lat": 25.0772351,
+  "lon": 121.5281973,
+  "tags": {
+    "name": "圓山大飯店",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509668576,
+  "lat": 25.0772726,
+  "lon": 121.5279424,
+  "tags": {
+    "name": "圓山大飯店",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509668577,
+  "lat": 25.0797701,
+  "lon": 121.5465072,
+  "tags": {
+    "name": "大直國小",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509668578,
+  "lat": 25.0808392,
+  "lon": 121.5482887,
+  "tags": {
+    "name": "植福宮",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509668579,
+  "lat": 25.0795133,
+  "lon": 121.5426388,
+  "tags": {
+    "name": "大直高中",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509668580,
+  "lat": 25.0797707,
+  "lon": 121.5436874,
+  "tags": {
+    "name": "大直高中",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509668581,
+  "lat": 25.0779839,
+  "lon": 121.5323094,
+  "tags": {
+    "name": "忠烈祠",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509668582,
+  "lat": 25.0781769,
+  "lon": 121.5322543,
+  "tags": {
+    "name": "忠烈祠",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509668583,
+  "lat": 25.0845723,
+  "lon": 121.5555830,
+  "tags": {
+    "name": "捷運劍南路站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509668584,
+  "lat": 25.0853001,
+  "lon": 121.5545986,
+  "tags": {
+    "name": "捷運劍南路站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509668586,
+  "lat": 25.0689165,
+  "lon": 121.5199317,
+  "tags": {
+    "name": "捷運圓山站(圓山公園)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509668587,
+  "lat": 25.0799084,
+  "lon": 121.5459638,
+  "tags": {
+    "name": "捷運大直站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509668588,
+  "lat": 25.0802618,
+  "lon": 121.5480205,
+  "tags": {
+    "name": "捷運大直站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509668589,
+  "lat": 25.0817978,
+  "lon": 121.5488303,
+  "tags": {
+    "name": "植福宮",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509668590,
+  "lat": 25.0793660,
+  "lon": 121.5399100,
+  "tags": {
+    "name": "空軍司令部",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509668591,
+  "lat": 25.0795815,
+  "lon": 121.5400130,
+  "tags": {
+    "name": "空軍司令部",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509991263,
+  "lat": 25.0802413,
+  "lon": 121.5585513,
+  "tags": {
+    "name": "基河二期國宅二",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509991266,
+  "lat": 25.0831627,
+  "lon": 121.5564101,
+  "tags": {
+    "name": "敬業三路 (一)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509991269,
+  "lat": 25.0832385,
+  "lon": 121.5562365,
+  "tags": {
+    "name": "敬業三路 (一)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509991272,
+  "lat": 25.0812629,
+  "lon": 121.5562196,
+  "tags": {
+    "name": "敬業三路(二)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509991275,
+  "lat": 25.0816612,
+  "lon": 121.5564822,
+  "tags": {
+    "name": "敬業三路(二)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509991278,
+  "lat": 25.0820160,
+  "lon": 121.5584838,
+  "tags": {
+    "name": "敬業四路",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509991281,
+  "lat": 25.0822321,
+  "lon": 121.5585711,
+  "tags": {
+    "name": "敬業四路",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509991321,
+  "lat": 25.0845621,
+  "lon": 121.5582045,
+  "tags": {
+    "name": "美麗華",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509991322,
+  "lat": 25.0847442,
+  "lon": 121.5580421,
+  "tags": {
+    "name": "美麗華",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509991323,
+  "lat": 25.0838573,
+  "lon": 121.5569992,
+  "tags": {
+    "name": "美麗華(植福)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509991324,
+  "lat": 25.0839222,
+  "lon": 121.5491573,
+  "tags": {
+    "name": "自強隧道",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509991325,
+  "lat": 25.0858303,
+  "lon": 121.5515448,
+  "tags": {
+    "name": "自強隧道",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509991326,
+  "lat": 25.0837015,
+  "lon": 121.5493119,
+  "tags": {
+    "name": "自強隧道(一)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2509991327,
+  "lat": 25.0870322,
+  "lon": 121.5257639,
+  "tags": {
+    "name": "陽明戲院",
+    "note": "僅部分路線停靠",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517302315,
+  "lat": 25.0459972,
+  "lon": 121.5102866,
+  "tags": {
+    "name": "臺北郵局(撫臺街洋樓)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517390795,
+  "lat": 25.0793561,
+  "lon": 121.5684680,
+  "tags": {
+    "name": "仁寶大樓",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517390796,
+  "lat": 25.0792010,
+  "lon": 121.5685281,
+  "tags": {
+    "name": "仁愛大樓",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517390797,
+  "lat": 25.0817127,
+  "lon": 121.5654186,
+  "tags": {
+    "name": "內湖基湖路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517390798,
+  "lat": 25.0819748,
+  "lon": 121.5652786,
+  "tags": {
+    "name": "內湖基湖路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517390799,
+  "lat": 25.0648550,
+  "lon": 121.5852743,
+  "tags": {
+    "name": "內湖站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517390800,
+  "lat": 25.0650262,
+  "lon": 121.5850507,
+  "tags": {
+    "name": "內湖站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517390801,
+  "lat": 25.0719365,
+  "lon": 121.5811758,
+  "tags": {
+    "name": "公館山",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517390802,
+  "lat": 25.0720149,
+  "lon": 121.5809100,
+  "tags": {
+    "name": "公館山",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517390803,
+  "lat": 25.0798590,
+  "lon": 121.5590592,
+  "tags": {
+    "name": "基河二期國宅一",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517390804,
+  "lat": 25.0798814,
+  "lon": 121.5566796,
+  "tags": {
+    "name": "基河二期國宅三",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517390805,
+  "lat": 25.0800063,
+  "lon": 121.5590581,
+  "tags": {
+    "name": "基河二期國宅三",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517390806,
+  "lat": 25.0800307,
+  "lon": 121.5575299,
+  "tags": {
+    "name": "基河二期國宅三",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517390807,
+  "lat": 25.0796776,
+  "lon": 121.5645832,
+  "tags": {
+    "name": "基湖站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517390808,
+  "lat": 25.0802249,
+  "lon": 121.5649044,
+  "tags": {
+    "name": "基湖站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517390809,
+  "lat": 25.0804086,
+  "lon": 121.5658370,
+  "tags": {
+    "name": "基湖路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517390810,
+  "lat": 25.0804328,
+  "lon": 121.5660683,
+  "tags": {
+    "name": "基湖路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517390815,
+  "lat": 25.0829300,
+  "lon": 121.5638866,
+  "tags": {
+    "name": "治警新村",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517390816,
+  "lat": 25.0830638,
+  "lon": 121.5642363,
+  "tags": {
+    "name": "治警新村",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517390817,
+  "lat": 25.0798468,
+  "lon": 121.5600076,
+  "tags": {
+    "name": "濱江國中",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517390818,
+  "lat": 25.0799915,
+  "lon": 121.5612894,
+  "tags": {
+    "name": "濱江國中",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517390819,
+  "lat": 25.0745729,
+  "lon": 121.5777321,
+  "tags": {
+    "name": "瑞光路",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517390821,
+  "lat": 25.0747220,
+  "lon": 121.5777188,
+  "tags": {
+    "name": "瑞光路",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517390869,
+  "lat": 25.0765890,
+  "lon": 121.5565549,
+  "tags": {
+    "name": "美堤碼頭",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517390870,
+  "lat": 25.0826889,
+  "lon": 121.5571703,
+  "tags": {
+    "name": "美麗華(樂群)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517390871,
+  "lat": 25.0770174,
+  "lon": 121.5734138,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "臺北花市(瑞光)"
+  }
+},
+{
+  "type": "node",
+  "id": 2517390872,
+  "lat": 25.0772097,
+  "lon": 121.5732738,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "臺北花市(瑞光)"
+  }
+},
+{
+  "type": "node",
+  "id": 2517390873,
+  "lat": 25.0703299,
+  "lon": 121.5828057,
+  "tags": {
+    "name": "麗寶大樓",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517390874,
+  "lat": 25.0703748,
+  "lon": 121.5826138,
+  "tags": {
+    "name": "麗寶大樓",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517444160,
+  "lat": 25.0314613,
+  "lon": 121.5612022,
+  "tags": {
+    "name": "世貿中心 (莊敬)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517444161,
+  "lat": 25.0315424,
+  "lon": 121.5613126,
+  "tags": {
+    "name": "世貿中心 (莊敬)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517444162,
+  "lat": 25.0354305,
+  "lon": 121.4970348,
+  "tags": {
+    "name": "中國時報",
+    "local_ref": "台北市公車",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517444163,
+  "lat": 25.0271352,
+  "lon": 121.5664804,
+  "tags": {
+    "name": "信義國中",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517444164,
+  "lat": 25.0273107,
+  "lon": 121.5661978,
+  "tags": {
+    "name": "信義國中",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517444165,
+  "lat": 25.0267028,
+  "lon": 121.5680697,
+  "tags": {
+    "name": "吳興國小",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517444166,
+  "lat": 25.0268291,
+  "lon": 121.5679402,
+  "tags": {
+    "name": "吳興國小",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517444167,
+  "lat": 25.0261937,
+  "lon": 121.5686009,
+  "tags": {
+    "name": "吳興國小(松仁)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517444168,
+  "lat": 25.0262272,
+  "lon": 121.5686577,
+  "tags": {
+    "name": "吳興國小(松仁)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517444169,
+  "lat": 25.0327021,
+  "lon": 121.5062704,
+  "tags": {
+    "name": "和平中華路口",
+    "local_ref": "台北市公車",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517444170,
+  "lat": 25.0323353,
+  "lon": 121.4915208,
+  "tags": {
+    "name": "大理高中",
+    "local_ref": "台北市公車",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517444171,
+  "lat": 25.0315691,
+  "lon": 121.5128568,
+  "tags": {
+    "name": "建國中學(歷史博物館)",
+    "local_ref": "台北市公車",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517444172,
+  "lat": 25.0288814,
+  "lon": 121.5219573,
+  "tags": {
+    "name": "捷運古亭站 (杭州)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517444173,
+  "lat": 25.0353661,
+  "lon": 121.4999623,
+  "tags": {
+    "name": "捷運龍山寺站",
+    "local_ref": "台北市公車",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517444174,
+  "lat": 25.0352965,
+  "lon": 121.5018970,
+  "tags": {
+    "name": "昆明街口",
+    "local_ref": "台北市公車",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517444175,
+  "lat": 25.0290469,
+  "lon": 121.5626139,
+  "tags": {
+    "name": "景新里",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517444176,
+  "lat": 25.0292725,
+  "lon": 121.5625717,
+  "tags": {
+    "name": "景新里",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517444177,
+  "lat": 25.0307562,
+  "lon": 121.5096935,
+  "tags": {
+    "name": "植物園",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517444178,
+  "lat": 25.0309068,
+  "lon": 121.5086076,
+  "tags": {
+    "name": "植物園",
+    "local_ref": "台北市公車",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517444179,
+  "lat": 25.0281862,
+  "lon": 121.5178171,
+  "tags": {
+    "name": "牯嶺街",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517444180,
+  "lat": 25.0316151,
+  "lon": 121.5152696,
+  "tags": {
+    "name": "牯嶺街小劇場",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517444210,
+  "lat": 25.0295990,
+  "lon": 121.5168250,
+  "tags": {
+    "name": "自來水西分處",
+    "local_ref": "台北市公車",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517444211,
+  "lat": 25.0283028,
+  "lon": 121.5632223,
+  "tags": {
+    "name": "臺北醫學大學",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517444212,
+  "lat": 25.0283583,
+  "lon": 121.5632903,
+  "tags": {
+    "name": "臺北醫學大學",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517658747,
+  "lat": 25.0323966,
+  "lon": 121.5139189,
+  "tags": {
+    "name": "中正二分局",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517658750,
+  "lat": 25.0327028,
+  "lon": 121.5140629,
+  "tags": {
+    "name": "中正二分局",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517658783,
+  "lat": 25.0271560,
+  "lon": 121.5067485,
+  "tags": {
+    "name": "中華南海路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517658787,
+  "lat": 25.0271606,
+  "lon": 121.5065991,
+  "tags": {
+    "name": "中華南海路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517658788,
+  "lat": 25.0341417,
+  "lon": 121.5381344,
+  "tags": {
+    "name": "信義市場",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517658789,
+  "lat": 25.0615763,
+  "lon": 121.5818671,
+  "tags": {
+    "name": "內湖站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517658790,
+  "lat": 25.0616037,
+  "lon": 121.5820398,
+  "tags": {
+    "name": "內湖站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517658793,
+  "lat": 25.0809167,
+  "lon": 121.5226812,
+  "tags": {
+    "name": "劍潭國小",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517658794,
+  "lat": 25.0810596,
+  "lon": 121.5222890,
+  "tags": {
+    "name": "劍潭國小",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517658795,
+  "lat": 25.0514125,
+  "lon": 121.5606844,
+  "tags": {
+    "name": "南京三民路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517658796,
+  "lat": 25.0514456,
+  "lon": 121.5610246,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "南京三民路口"
+  }
+},
+{
+  "type": "node",
+  "id": 2517658797,
+  "lat": 25.0513791,
+  "lon": 121.5648909,
+  "tags": {
+    "name": "南京公寓",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517658798,
+  "lat": 25.0513908,
+  "lon": 121.5652493,
+  "tags": {
+    "name": "南京公寓",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517658799,
+  "lat": 25.0510981,
+  "lon": 121.5691292,
+  "tags": {
+    "name": "南松山(南京)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517658800,
+  "lat": 25.0514146,
+  "lon": 121.5690196,
+  "tags": {
+    "name": "南松山(南京)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517658801,
+  "lat": 25.0283165,
+  "lon": 121.5055135,
+  "tags": {
+    "name": "南機場公寓",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517658802,
+  "lat": 25.0286011,
+  "lon": 121.5054136,
+  "tags": {
+    "name": "南機場公寓",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517658803,
+  "lat": 25.0834082,
+  "lon": 121.5236935,
+  "tags": {
+    "name": "圓山皇宮大廈",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517658805,
+  "lat": 25.0836290,
+  "lon": 121.5233593,
+  "tags": {
+    "name": "圓山皇宮大廈",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517658809,
+  "lat": 25.0514030,
+  "lon": 121.5173774,
+  "tags": {
+    "name": "圓環(承德)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517658824,
+  "lat": 25.0648373,
+  "lon": 121.5181585,
+  "tags": {
+    "name": "大同國小",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517658825,
+  "lat": 25.0661866,
+  "lon": 121.5184942,
+  "tags": {
+    "name": "大同國小",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517658831,
+  "lat": 25.0287590,
+  "lon": 121.5154353,
+  "tags": {
+    "name": "寧波重慶路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517658835,
+  "lat": 25.0291616,
+  "lon": 121.5155510,
+  "tags": {
+    "name": "寧波重慶路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517658838,
+  "lat": 25.0742668,
+  "lon": 121.5199621,
+  "tags": {
+    "name": "就業服務處",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517658841,
+  "lat": 25.0716219,
+  "lon": 121.5183620,
+  "tags": {
+    "name": "庫倫街口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517658844,
+  "lat": 25.0723011,
+  "lon": 121.5189299,
+  "tags": {
+    "name": "庫倫街口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517658847,
+  "lat": 25.0364823,
+  "lon": 121.5383445,
+  "tags": {
+    "name": "延平中學",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517658850,
+  "lat": 25.0541573,
+  "lon": 121.5181732,
+  "tags": {
+    "name": "建成公園",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517658856,
+  "lat": 25.0606061,
+  "lon": 121.5184196,
+  "tags": {
+    "name": "成淵高中",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517658859,
+  "lat": 25.0621669,
+  "lon": 121.5180372,
+  "tags": {
+    "name": "成淵高中",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517658873,
+  "lat": 25.0606126,
+  "lon": 121.5788501,
+  "tags": {
+    "name": "新湖一路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517658875,
+  "lat": 25.0608633,
+  "lon": 121.5789359,
+  "tags": {
+    "name": "新湖一路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517658876,
+  "lat": 25.0624739,
+  "lon": 121.5773924,
+  "tags": {
+    "name": "新湖三路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517658878,
+  "lat": 25.0628130,
+  "lon": 121.5774547,
+  "tags": {
+    "name": "新湖三路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517658881,
+  "lat": 25.0640661,
+  "lon": 121.5779013,
+  "tags": {
+    "name": "新湖新宗路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517658883,
+  "lat": 25.0641366,
+  "lon": 121.5778426,
+  "tags": {
+    "name": "新湖新宗路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517658886,
+  "lat": 25.0584420,
+  "lon": 121.5754059,
+  "tags": {
+    "name": "新湖民善街口(一)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517658890,
+  "lat": 25.0585689,
+  "lon": 121.5755064,
+  "tags": {
+    "name": "新湖民善街口(一)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517658893,
+  "lat": 25.0732414,
+  "lon": 121.5190823,
+  "tags": {
+    "name": "明倫高中",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517658901,
+  "lat": 25.0501747,
+  "lon": 121.5771999,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "松山車站"
+  }
+},
+{
+  "type": "node",
+  "id": 2517658904,
+  "lat": 25.0498799,
+  "lon": 121.5734463,
+  "tags": {
+    "name": "松山農會",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517658907,
+  "lat": 25.0500535,
+  "lon": 121.5733121,
+  "tags": {
+    "name": "松山農會",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517658931,
+  "lat": 25.0680562,
+  "lon": 121.5182331,
+  "tags": {
+    "name": "民族承德路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517658936,
+  "lat": 25.0687627,
+  "lon": 121.5185522,
+  "tags": {
+    "name": "民族承德路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517658943,
+  "lat": 25.0568558,
+  "lon": 121.5179839,
+  "tags": {
+    "name": "民生西路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517658948,
+  "lat": 25.0579002,
+  "lon": 121.5183556,
+  "tags": {
+    "name": "民生西路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517658981,
+  "lat": 25.0506255,
+  "lon": 121.5806389,
+  "tags": {
+    "name": "玉成里",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517658985,
+  "lat": 25.0507904,
+  "lon": 121.5805607,
+  "tags": {
+    "name": "玉成里",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517658999,
+  "lat": 25.0405973,
+  "lon": 121.5378568,
+  "tags": {
+    "name": "空軍總部",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517659442,
+  "lat": 25.0255548,
+  "lon": 121.5165567,
+  "tags": {
+    "name": "自強市場",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517659445,
+  "lat": 25.0256045,
+  "lon": 121.5162272,
+  "tags": {
+    "name": "自強市場",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517659451,
+  "lat": 25.0503708,
+  "lon": 121.5166507,
+  "tags": {
+    "source": "Bing",
+    "name": "臺北車站 (承德)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517659454,
+  "lat": 25.0576731,
+  "lon": 121.5809683,
+  "tags": {
+    "name": "舊宗路一段",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517659457,
+  "lat": 25.0580458,
+  "lon": 121.5810315,
+  "tags": {
+    "name": "舊宗路一段",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517659460,
+  "lat": 25.0570941,
+  "lon": 121.5767194,
+  "tags": {
+    "name": "行善路",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517659463,
+  "lat": 25.0571086,
+  "lon": 121.5764958,
+  "tags": {
+    "name": "行善路",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517659466,
+  "lat": 25.0620876,
+  "lon": 121.5814916,
+  "tags": {
+    "name": "行善路77巷口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517659469,
+  "lat": 25.0622342,
+  "lon": 121.5815573,
+  "tags": {
+    "name": "行善路77巷口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517659472,
+  "lat": 25.0334216,
+  "lon": 121.5154789,
+  "tags": {
+    "name": "財政大樓",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517659475,
+  "lat": 25.0332962,
+  "lon": 121.5157300,
+  "tags": {
+    "name": "財政大樓",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517659477,
+  "lat": 25.0560092,
+  "lon": 121.5819518,
+  "tags": {
+    "name": "週美里一",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517659480,
+  "lat": 25.0563966,
+  "lon": 121.5820344,
+  "tags": {
+    "name": "週美里一",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517659483,
+  "lat": 25.0634931,
+  "lon": 121.5184660,
+  "tags": {
+    "name": "防癌協會",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517659489,
+  "lat": 25.0504348,
+  "lon": 121.5714536,
+  "tags": {
+    "name": "饒河觀光夜市(塔悠)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2517659492,
+  "lat": 25.0507771,
+  "lon": 121.5713309,
+  "tags": {
+    "name": "饒河觀光夜市(塔悠)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2518475650,
+  "lat": 25.0700854,
+  "lon": 121.4915746,
+  "tags": {
+    "name": "大智街口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2518475652,
+  "lat": 25.0704562,
+  "lon": 121.4921857,
+  "tags": {
+    "name": "大智街口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2525034838,
+  "lat": 25.0550252,
+  "lon": 121.6099557,
+  "tags": {
+    "name": "南港高工",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2525034839,
+  "lat": 25.0539901,
+  "lon": 121.6038564,
+  "tags": {
+    "name": "台肥新村",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2525034840,
+  "lat": 25.0538251,
+  "lon": 121.5987331,
+  "tags": {
+    "name": "東明里",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2525034841,
+  "lat": 25.0544370,
+  "lon": 121.5960467,
+  "tags": {
+    "name": "土地公廟",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2525034842,
+  "lat": 25.0543789,
+  "lon": 121.5925750,
+  "tags": {
+    "name": "玉成國小",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2525034843,
+  "lat": 25.0525255,
+  "lon": 121.5850354,
+  "tags": {
+    "name": "松山磚廠",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2525070749,
+  "lat": 25.0530799,
+  "lon": 121.5876672,
+  "tags": {
+    "name": "南港路三段",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2525070750,
+  "lat": 25.0516137,
+  "lon": 121.5809664,
+  "tags": {
+    "name": "玉成里",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2525070751,
+  "lat": 25.0502384,
+  "lon": 121.5722224,
+  "tags": {
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2525080121,
+  "lat": 25.0529580,
+  "lon": 121.5871141,
+  "tags": {
+    "name": "南港路三段",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2525080133,
+  "lat": 25.0532174,
+  "lon": 121.5894848,
+  "tags": {
+    "name": "中華賓士",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2525080146,
+  "lat": 25.0533122,
+  "lon": 121.6006160,
+  "tags": {
+    "name": "南港輪胎",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2525080150,
+  "lat": 25.0536232,
+  "lon": 121.6029442,
+  "tags": {
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2525424708,
+  "lat": 25.0535428,
+  "lon": 121.5900371,
+  "tags": {
+    "name": "中華賓士",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2525424709,
+  "lat": 25.0515643,
+  "lon": 121.5547487,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "南京寧安街口 (Nanjing & Ningan Intersection)",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2525424710,
+  "lat": 25.0552383,
+  "lon": 121.6129705,
+  "tags": {
+    "name": "南港",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2525424713,
+  "lat": 25.0534177,
+  "lon": 121.6007450,
+  "tags": {
+    "name": "南港輪胎",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2525424714,
+  "lat": 25.0547619,
+  "lon": 121.6093070,
+  "tags": {
+    "name": "南港高工",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2525424715,
+  "lat": 25.0542914,
+  "lon": 121.5963007,
+  "tags": {
+    "name": "土地公廟",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2525424716,
+  "lat": 25.0535411,
+  "lon": 121.5991059,
+  "tags": {
+    "name": "東明里",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2525424717,
+  "lat": 25.0526945,
+  "lon": 121.5850688,
+  "tags": {
+    "name": "松山磚廠",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2525424718,
+  "lat": 25.0514921,
+  "lon": 121.5808001,
+  "tags": {
+    "name": "玉成里",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2528053309,
+  "lat": 25.0440858,
+  "lon": 121.5320500,
+  "tags": {
+    "name": "臺北科技大學",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2528053312,
+  "lat": 25.0483660,
+  "lon": 121.5425488,
+  "tags": {
+    "name": "中興中學",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2528053315,
+  "lat": 25.0482244,
+  "lon": 121.5430339,
+  "tags": {
+    "name": "中興中學",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2528053318,
+  "lat": 25.0483368,
+  "lon": 121.5449238,
+  "tags": {
+    "name": "臺安醫院",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2528069487,
+  "lat": 25.0482519,
+  "lon": 121.5501842,
+  "tags": {
+    "name": "臺視",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2528069494,
+  "lat": 25.0480861,
+  "lon": 121.5510580,
+  "tags": {
+    "name": "臺視",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2528069499,
+  "lat": 25.0480054,
+  "lon": 121.5546214,
+  "tags": {
+    "wheelchair": "yes",
+    "name": "美仁里",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2528069504,
+  "lat": 25.0481701,
+  "lon": 121.5565837,
+  "tags": {
+    "wheelchair": "yes",
+    "name": "光復南路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2528069508,
+  "lat": 25.0479623,
+  "lon": 121.5568180,
+  "tags": {
+    "wheelchair": "yes",
+    "name": "光復南路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2528069514,
+  "lat": 25.0485173,
+  "lon": 121.5602472,
+  "tags": {
+    "name": "臺北市區監理所",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2528069519,
+  "lat": 25.0482497,
+  "lon": 121.5599275,
+  "tags": {
+    "name": "臺北市區監理所",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2528089318,
+  "lat": 25.0488585,
+  "lon": 121.5636779,
+  "tags": {
+    "name": "京華城",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2528089319,
+  "lat": 25.0486924,
+  "lon": 121.5636925,
+  "tags": {
+    "name": "京華城",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2528089320,
+  "lat": 25.0487639,
+  "lon": 121.5645906,
+  "tags": {
+    "name": "京華城",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2528089321,
+  "lat": 25.0491659,
+  "lon": 121.5666794,
+  "tags": {
+    "name": "新聚里",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2528089322,
+  "lat": 25.0490181,
+  "lon": 121.5668798,
+  "tags": {
+    "name": "新聚里",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2528089323,
+  "lat": 25.0493425,
+  "lon": 121.5683664,
+  "tags": {
+    "name": "基隆路口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2528089324,
+  "lat": 25.0499488,
+  "lon": 121.5714495,
+  "tags": {
+    "name": "饒河街觀光夜市 (八德)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2528089325,
+  "lat": 25.0498027,
+  "lon": 121.5714538,
+  "tags": {
+    "name": "饒河街觀光夜市 (八德)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2528106603,
+  "lat": 25.0330708,
+  "lon": 121.5645258,
+  "tags": {
+    "name": "捷運台北101/世貿站 (信義)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2528106604,
+  "lat": 25.0328272,
+  "lon": 121.5645284,
+  "tags": {
+    "name": "捷運台北101/世貿站 (信義)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2528106605,
+  "lat": 25.0326287,
+  "lon": 121.5688236,
+  "tags": {
+    "name": "捷運象山站",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2528739039,
+  "lat": 25.0533163,
+  "lon": 121.5168413,
+  "tags": {
+    "name": "圓環",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2528739040,
+  "lat": 25.0535698,
+  "lon": 121.5168600,
+  "tags": {
+    "name": "圓環",
+    "shelter": "yes",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2528868387,
+  "lat": 25.0555069,
+  "lon": 121.5139307,
+  "tags": {
+    "name": "朝陽公園",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2528868388,
+  "lat": 25.0557985,
+  "lon": 121.5141291,
+  "tags": {
+    "name": "朝陽公園",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2563078203,
+  "lat": 25.0336893,
+  "lon": 121.5198172,
+  "tags": {
+    "name": "捷運中正紀念堂站(愛國)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2563078204,
+  "lat": 25.0300339,
+  "lon": 121.5221911,
+  "tags": {
+    "name": "潮州街口",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2585279037,
+  "lat": 25.0443565,
+  "lon": 121.5665660,
+  "tags": {
+    "name": "松山高中",
+    "highway": "bus_stop",
+    "fixme": "estaminated"
+  }
+},
+{
+  "type": "node",
+  "id": 2586999956,
+  "lat": 25.0340078,
+  "lon": 121.5668167,
+  "tags": {
+    "name": "世貿二館",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2586999957,
+  "lat": 25.0382280,
+  "lon": 121.5633755,
+  "tags": {
+    "name": "市政府 (市府)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2586999958,
+  "lat": 25.0463536,
+  "lon": 121.5668089,
+  "tags": {
+    "name": "東興街",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2586999959,
+  "lat": 25.0464770,
+  "lon": 121.5665899,
+  "tags": {
+    "name": "東興街",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2586999960,
+  "lat": 25.0436929,
+  "lon": 121.5678498,
+  "tags": {
+    "name": "松山高中(松隆)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2586999961,
+  "lat": 25.0437748,
+  "lon": 121.5675668,
+  "tags": {
+    "name": "松山高中(松隆)",
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 2586999963,
+  "lat": 25.0457658,
+  "lon": 121.5697569,
+  "tags": {
+    "name": "興雅國小",
+    "highway": "bus_stop"
+  }
+}
+
+  ],
+"remark": "runtime error: Way 33096700 cannot be expanded at timestamp 2015-02-04T19:35:36Z.runtime error: Way 33096700 cannot be expanded at timestamp 2015-02-04T19:15:19Z.runtime error: Way 33096700 cannot be expanded at timestamp 2015-02-04T19:15:18Z.runtime error: Way 225136326 cannot be expanded at timestamp 2015-02-04T19:59:29Z.runtime error: Way 225136326 cannot be expanded at timestamp 2015-02-04T19:59:26Z.runtime error: Way 225136326 cannot be expanded at timestamp 2015-02-04T14:27:42Z.runtime error: Way 225136326 cannot be expanded at timestamp 2015-02-04T14:05:58Z.runtime error: Way 225136326 cannot be expanded at timestamp 2015-02-04T14:05:57Z.runtime error: Way 297687824 cannot be expanded at timestamp 2015-02-05T03:49:43Z.runtime error: Way 321587201 cannot be expanded at timestamp 2015-02-04T10:23:42Z.runtime error: Way 321587201 cannot be expanded at timestamp 2015-02-04T10:19:30Z.runtime error: Way 321587201 cannot be expanded at timestamp 2015-02-04T09:53:09Z.runtime error: Way 321587201 cannot be expanded at timestamp 2015-02-04T09:36:48Z.runtime error: Way 326328773 cannot be expanded at timestamp 2015-02-04T22:18:49Z.runtime error: Way 326328773 cannot be expanded at timestamp 2015-02-04T21:51:36Z.runtime error: Way 326328773 cannot be expanded at timestamp 2015-02-04T21:43:01Z.runtime error: Way 326328773 cannot be expanded at timestamp 2015-02-04T21:19:14Z.runtime error: Way 326328773 cannot be expanded at timestamp 2015-02-04T21:19:13Z.runtime error: Way 326328773 cannot be expanded at timestamp 2015-02-04T21:19:12Z.runtime error: Way 326328773 cannot be expanded at timestamp 2015-02-04T20:41:40Z.runtime error: Way 326328773 cannot be expanded at timestamp 2015-02-04T19:57:05Z.runtime error: Way 326328773 cannot be expanded at timestamp 2015-02-04T19:57:04Z.runtime error: Way 326331338 cannot be expanded at timestamp 2015-02-04T16:02:05Z.runtime error: Way 326332269 cannot be expanded at timestamp 2015-02-04T16:15:09Z.runtime error: Way 326332269 cannot be expanded at timestamp 2015-02-04T16:15:07Z.runtime error: Way 326332269 cannot be expanded at timestamp 2015-02-04T16:12:54Z.runtime error: Way 326332269 cannot be expanded at timestamp 2015-02-04T16:09:04Z.runtime error: Way 326356418 cannot be expanded at timestamp 2015-02-04T16:17:54Z.runtime error: Way 326356418 cannot be expanded at timestamp 2015-02-04T16:17:53Z.runtime error: Way 326356418 cannot be expanded at timestamp 2015-02-04T16:16:35Z.runtime error: Way 326356418 cannot be expanded at timestamp 2015-02-04T15:33:37Z.runtime error: Way 326356418 cannot be expanded at timestamp 2015-02-04T13:24:33Z.runtime error: Way 326356418 cannot be expanded at timestamp 2015-02-04T13:24:32Z.runtime error: Way 326380658 cannot be expanded at timestamp 2015-02-04T16:34:32Z.runtime error: Way 326403482 cannot be expanded at timestamp 2015-02-04T19:15:18Z.runtime error: Relation 4486745 cannot be expanded at timestamp 2015-02-04T17:27:37Z.runtime error: Relation 4486745 cannot be expanded at timestamp 2015-02-04T16:15:09Z.runtime error: Relation 4486745 cannot be expanded at timestamp 2015-02-04T16:15:07Z.runtime error: Relation 4486745 cannot be expanded at timestamp 2015-02-04T16:12:54Z.runtime error: Relation 4486745 cannot be expanded at timestamp 2015-02-04T16:09:04Z.runtime error: Relation 4556277 cannot be expanded at timestamp 2015-02-04T22:18:49Z.runtime error: Relation 4556277 cannot be expanded at timestamp 2015-02-04T21:51:36Z.runtime error: Relation 4556277 cannot be expanded at timestamp 2015-02-04T21:43:02Z.runtime error: Relation 4556277 cannot be expanded at timestamp 2015-02-04T21:43:01Z.runtime error: Relation 4556277 cannot be expanded at timestamp 2015-02-04T21:19:21Z.runtime error: Relation 4556277 cannot be expanded at timestamp 2015-02-04T21:19:13Z.runtime error: Relation 4556277 cannot be expanded at timestamp 2015-02-04T21:19:12Z.runtime error: Relation 4557706 cannot be expanded at timestamp 2015-02-04T16:35:24Z.runtime error: Relation 4557706 cannot be expanded at timestamp 2015-02-04T16:34:32Z.runtime error: Relation 4558390 cannot be expanded at timestamp 2015-02-04T19:15:18Z.runtime error: Relation 4558390 cannot be expanded at timestamp 2015-02-04T18:51:13Z.runtime error: Relation 4558390 cannot be expanded at timestamp 2015-02-04T18:44:04Z.runtime error: Relation 4558390 cannot be expanded at timestamp 2015-02-04T18:44:03Z.runtime error: Relation 4558390 cannot be expanded at timestamp 2015-02-04T18:44:02Z.runtime error: Relation 4558390 cannot be expanded at timestamp 2015-02-04T18:44:01Z.runtime error: Relation 4558390 cannot be expanded at timestamp 2015-02-04T18:44:00Z.runtime error: Relation 4558391 cannot be expanded at timestamp 2015-02-04T19:15:18Z.runtime error: Relation 4558391 cannot be expanded at timestamp 2015-02-04T18:51:13Z.runtime error: Relation 4558391 cannot be expanded at timestamp 2015-02-04T18:44:04Z.runtime error: Relation 4558391 cannot be expanded at timestamp 2015-02-04T18:44:03Z.runtime error: Relation 4558391 cannot be expanded at timestamp 2015-02-04T18:44:02Z.runtime error: Relation 4558391 cannot be expanded at timestamp 2015-02-04T18:44:01Z.runtime error: Relation 4558391 cannot be expanded at timestamp 2015-02-04T18:44:00Z."
+}
